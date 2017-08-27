@@ -17,6 +17,23 @@
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.1"
-  }
+    "hexo-server": "^0.2.1",
+    "jquery": "^3.2.1"
+  },
+  "description": "esa→Hexo連動でポートフォリオを作るテスト",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llminatoll/llminatoll.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llminatoll/llminatoll.github.io/issues"
+  },
+  "homepage": "https://github.com/llminatoll/llminatoll.github.io#readme"
 }
