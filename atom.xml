@@ -5,7 +5,7 @@
   <link href="/llminatoll.github.io//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/llminatoll.github.io/"/>
-  <updated>2017-08-27T20:16:30.588Z</updated>
+  <updated>2017-08-27T20:19:16.511Z</updated>
   <id>https://github.com/llminatoll/llminatoll.github.io/</id>
   
   <author>
@@ -16,31 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test3</title>
-    <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/27/365.html/"/>
-    <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/27/365.html/</id>
-    <published>2017-08-27T20:16:30.588Z</published>
-    <updated>2017-08-27T20:16:30.588Z</updated>
-    
-    <content type="html"><![CDATA[<p>test3 r</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;test3 r&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>test4</title>
     <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/27/366.html/"/>
     <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/27/366.html/</id>
-    <published>2017-08-27T20:16:30.588Z</published>
-    <updated>2017-08-27T20:16:30.588Z</updated>
+    <published>2017-08-27T20:19:16.511Z</published>
+    <updated>2017-08-27T20:19:16.511Z</updated>
     
     <content type="html"><![CDATA[<p>Copied from: <a href="/posts/365">portfolio/test3</a></p>
 <p>test4</p>
@@ -58,11 +38,31 @@
   </entry>
   
   <entry>
+    <title>test3</title>
+    <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/27/365.html/"/>
+    <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/27/365.html/</id>
+    <published>2017-08-27T20:19:16.511Z</published>
+    <updated>2017-08-27T20:19:16.511Z</updated>
+    
+    <content type="html"><![CDATA[<p>test3 r</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test3 r&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test2</title>
     <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/27/364.html/"/>
     <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/27/364.html/</id>
-    <published>2017-08-27T18:19:35.000Z</published>
-    <updated>2017-08-27T18:19:35.000Z</updated>
+    <published>2017-08-27T19:42:10.000Z</published>
+    <updated>2017-08-27T19:42:10.000Z</updated>
     
     <content type="html"><![CDATA[<p>TEST2</p>
 ]]></content>
