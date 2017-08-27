@@ -70,7 +70,7 @@ theme: tranquilpeak
 deploy: 
   type: git
   repo: git@github.com:llminatoll/llminatoll.github.io.git
-  branch: gh-pages
+  branch: master
 
 # RSS - hexo-generator-sitemap
 feed:
