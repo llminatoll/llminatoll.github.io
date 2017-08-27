@@ -8,7 +8,7 @@ node_js:
 - '6'
 branches:
   only:
-  - master
+  - esa
 before_install:
 - npm install -g hexo
 - npm install
@@ -16,7 +16,7 @@ before_script:
 - git config --global user.name 'llminatoll via Travis CI'
 - git config --global user.email '22927920+llminatoll@users.noreply.github.com'
 - rm -rf public
-- git clone --depth=1 --branch=gh-pages https://github.com/llminatoll/llminatoll.github.io.git public
+- git clone --depth=1 --branch=master https://github.com/llminatoll/llminatoll.github.io.git public
 - pushd public
 - git ls-files | xargs -I {} rm -rf {}
 - popd
@@ -25,9 +25,9 @@ script:
 - cd public
 - git add -A
 - git commit -m 'Update'
-- '[ "$TRAVIS_BRANCH" == "master" ]'
+- '[ "$TRAVIS_BRANCH" == "esa" ]'
 - '[ $GH_TOKEN ]'
-- 'git push --force https://$GH_TOKEN@github.com/llminatoll/llminatoll.github.io.git HEAD:gh-pages'
+- 'git push --force https://$GH_TOKEN@github.com/llminatoll/llminatoll.github.io.git HEAD:master'
 env:
   global:
   - GIT_COMMITTER_NAME=llminatoll-via-TravisCI
