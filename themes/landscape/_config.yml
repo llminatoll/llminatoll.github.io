@@ -31,6 +31,9 @@ show_count: false
 google_analytics:
 favicon: /favicon.png
 
+# language
+language: en
+
 # OGP
 twitter: @webdesignManga
 twitter_site: @webdesignManga
