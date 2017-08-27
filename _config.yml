@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Wakaba review
-subtitle: 「わかばちゃんと学ぶ」シリーズの書評・評判を集めました
+title: Portfolio by TravisCI
+subtitle: 
 description:
 author: 湊川あい
 language:
@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://llminatoll.github.io/wakaba-review/
-root: /wakaba-review
+url: https://github.com/llminatoll/llminatoll.github.io/
+root: /llminatoll.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,12 +69,12 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: git@github.com:llminatoll/wakaba-review.git
+  repo: git@github.com:llminatoll/llminatoll.github.io.git
   branch: gh-pages
 
 # RSS - hexo-generator-sitemap
 feed:
     type: atom
-    path: wakaba-review/atom.xml
+    path: /atom.xml
     limit: 20
 
