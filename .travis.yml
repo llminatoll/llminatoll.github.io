@@ -1,0 +1,39 @@
+language: node_js
+sudo: false
+cache:
+  apt: true
+  directories:
+  - node_modules
+node_js:
+- '6'
+branches:
+  only:
+  - esa
+  except:
+  - master
+before_install:
+- npm install -g hexo
+- npm install
+before_script:
+- git config --global user.name 'llminatoll via Travis CI'
+- git config --global user.email '22927920+llminatoll@users.noreply.github.com'
+- rm -rf public
+- git clone --depth=1 --branch=master https://github.com/llminatoll/llminatoll.github.io.git public
+- pushd public
+- git ls-files | xargs -I {} rm -rf {}
+- popd
+script:
+- hexo generate
+- cd public
+- git add -A
+- git commit -m 'Update'
+- '[ "$TRAVIS_BRANCH" == "esa" ]'
+- '[ $GH_TOKEN ]'
+- 'git push --force https://$GH_TOKEN@github.com/llminatoll/llminatoll.github.io.git HEAD:master'
+env:
+  global:
+  - GIT_COMMITTER_NAME=llminatoll-via-TravisCI
+  - GIT_COMMITTER_EMAIL=22927920+llminatoll@users.noreply.github.com
+  - GIT_AUTHOR_NAME=llminatoll-via-TravisCI
+  - GIT_AUTHOR_EMAIL=22927920+llminatoll@users.noreply.github.com
+  - secure: SztNPpMtzNrbXWJss7BuFYAer4gt38Q1xtgrYKfgPy2OaT866ciuLpiIN6LnvbPkZTedVY9EiMnrDuZuIauMcHWe9NGsLSqEXj7KAyBL8Z4VCx61oWMhb4p0xN7a9L8Wk9JEIc3QeTurTVi5paCpCqi4pIUK0BaTDzwPI3ph91cxOW8fS/Oq8gD0+52WYAVWbBgz24D97YzuofZQHKLkZ4aRDGp/iueRq0kN506jV2/SrhTKBJGCc/iuPjtzE6q42VAmyWjlTRZPCxnA2gGhC+RL06nZBB5i/cVz1w+PSCQnxF6Z8Nu6TyL3iPPtWnySYQaC9WqoibP5y2ghMflXTmIZT91fYgvVcvr3+tJru0dN7kHmDwDynI9GihesBp8clUQKNzMToK2zNfEHWyuyQ/+lECv7aSvu2bvnL47FeLIlP3gWa3FWsHiKsF/OV3YbR7JlnD1yu1irP0LMbxwAwKc8G+YSAYhadMh/FG1dAD04pKvRX2pxsRvnyido203GQutnz1FUam9oKl+TPOtXVJxZgx4aAMZcoq/ISMGOBN18GTzYawTSNxr+Y9jdznVqiZtYEdW9k0bdsVkdLUn4p+L0KmCtTqppJkwNPEB4xqdyR9/8pjZVzTKsA7TiZmiBiDu0RprYBkEKezIvf5OYUAjQl/JvR28RWO25Xvo2cuo=
