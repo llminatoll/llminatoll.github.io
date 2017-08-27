@@ -7,8 +7,6 @@ cache:
 node_js:
 - '6'
 branches:
-  only:
-  - esa
   except:
   - master
 before_install:
