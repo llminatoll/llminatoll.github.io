@@ -1,0 +1,45 @@
+<!--SCRIPTS-->
+<%- js('assets/js/script-jgcamj4dfql9gumwfl2mzabi55ozlcoslnsn3aiksixn0zqawsthzvnzi3fh.min.js') %>
+<!--SCRIPTS END-->
+<% if (post.comments) { %>
+    <% if (theme.disqus_shortname) { %>
+        <script>
+             var disqus_config = function () {
+                 this.page.url = '<%= post.permalink %>';
+                 <% if (post.disqusIdentifier) { %>
+                    this.page.identifier = '<%= post.disqusIdentifier %>';
+                 <% } else { %>
+                    this.page.identifier = '<%= post.path %>';
+                 <% } %>
+             };
+            (function() {
+                var d = document, s = d.createElement('script');
+                var disqus_shortname = '<%= theme.disqus_shortname %>';
+                s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+    <% } else if (theme.duoshuo_shortname) { %>
+        <script type="text/javascript">
+            var duoshuoQuery = {short_name:'<%= theme.duoshuo_shortname %>'};
+            (function() {
+                var ds = document.createElement('script');
+                ds.type = 'text/javascript';ds.async = true;
+                ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                ds.charset = 'UTF-8';
+                (document.getElementsByTagName('head')[0]
+                || document.getElementsByTagName('body')[0]).appendChild(ds);
+            })();
+        </script>
+    <% } %>
+<% } %>
+<% if (config.algolia && config.algolia.appId && config.algolia.apiKey && config.algolia.indexName) { %>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment-with-locales.min.js"></script>
+    <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+    <script>
+        var algoliaClient = algoliasearch('<%= config.algolia.appId %>', '<%= config.algolia.apiKey %>');
+        var algoliaIndex = algoliaClient.initIndex('<%= config.algolia.indexName %>');
+    </script>
+<% } %>
