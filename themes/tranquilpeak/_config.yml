@@ -65,14 +65,14 @@ sidebar:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
         #     icon: stack-overflow
-        # twitter:
-        #     title: global.twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
-        # facebook:
-        #     title: global.facebook
-        #     url: https://facebook.com/
-        #     icon: facebook
+        twitter:
+            title: global.twitter
+            url: https://twitter.com/llminatoll
+            icon: twitter
+        facebook:
+           title: global.facebook
+           url: https://facebook.com/minatogawaai
+           icon: facebook
         # google_plus:
         #     title: global.google_plus
         #     url: https://plus.google.com/
@@ -81,10 +81,10 @@ sidebar:
         #     title: global.linkedin
         #     url: https://www.linkedin.com/profile/
         #     icon: linkedin
-        # mail:
-        #     title: global.mail
-        #     url: mailto:
-        #     icon: envelope-o
+        mail:
+            title: global.mail
+            url: mailto:cam51p.g@gmail.com
+            icon: envelope-o
     rss:
         rss:
             title: global.rss
@@ -111,18 +111,18 @@ header:
 # Author
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
-    location:
+    email: cam51p.g@gmail.com
+    location: Tokyo
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
     picture:
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter:
+    twitter: llminatoll
     # Your personal google plus profile id, not your blog or business page id.
     # E.g : `+JohnDoe` or `123812884128439`
-    google_plus:
+    google_plus: +AiMinatogawa
     # Your businnes google plus profile id. If not provided, personal will be used instead.
     # E.g : `+Tranquilpeak` or `123812884128439`
     google_plus_business:
@@ -186,7 +186,7 @@ google_analytics_id:
 # Your Baidu analystics web property ID : 9505a5af654a2478f93fd6c0ae4f687d
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatar_email:
+gravatar_email: cam51p.g@gmail.com
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
