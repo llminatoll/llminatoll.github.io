@@ -69,6 +69,7 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: ""
+    bio: "フリーランスのWebデザイナー・マンガ家・イラストレーター。
+マンガと図解で、Web技術をわかりやすく伝えることが好き。著書「わかばちゃんと学ぶ」シリーズのほか、SchooにてGit入門授業の講師も担当。"
     # Your job
-    job: ""
+    job: "Web designer / Comic artist / Writing techbooks"
