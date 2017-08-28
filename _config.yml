@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Portfolio by TravisCI
-subtitle: 
-description:
+title: MIXED
+subtitle: Ai Minatogawa Portfolio Website
+description: フリーランス/Webデザイナー・マンガ家・イラストレーターの湊川あいのポートフォリオです
 author: 湊川あい
 language: en
 timezone:
@@ -67,7 +67,7 @@ theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
+deploy:
   type: git
   repo: git@github.com:llminatoll/llminatoll.github.io.git
   branch: master
@@ -77,4 +77,3 @@ feed:
     type: atom
     path: /atom.xml
     limit: 20
-
