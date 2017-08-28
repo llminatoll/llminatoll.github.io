@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Portfolio by TravisCI</title>
   
-  <link href="/llminatoll.github.io//atom.xml" rel="self"/>
+  <link href="//atom.xml" rel="self"/>
   
-  <link href="https://github.com/llminatoll/llminatoll.github.io/"/>
-  <updated>2017-08-27T19:42:10.000Z</updated>
-  <id>https://github.com/llminatoll/llminatoll.github.io/</id>
+  <link href="https://github.com/llminatoll/"/>
+  <updated>2017-08-28T02:26:01.000Z</updated>
+  <id>https://github.com/llminatoll/</id>
   
   <author>
     <name>湊川あい</name>
@@ -16,9 +16,95 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test3</title>
+    <link href="https://github.com/llminatoll/2017/08/28/365.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/365.html/</id>
+    <published>2017-08-28T02:26:01.000Z</published>
+    <updated>2017-08-28T02:26:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>test3 r</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test3 r&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test4</title>
+    <link href="https://github.com/llminatoll/2017/08/28/366.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/366.html/</id>
+    <published>2017-08-28T02:26:01.000Z</published>
+    <updated>2017-08-28T02:26:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Copied from: <a href="/posts/365">portfolio/test3</a></p>
+<p>test4</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Copied from: &lt;a href=&quot;/posts/365&quot;&gt;portfolio/test3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;test4&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>わかばちゃんと学ぶGit使い方入門</title>
+    <link href="https://github.com/llminatoll/2017/08/28/368.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/368.html/</id>
+    <published>2017-08-28T02:26:01.000Z</published>
+    <updated>2017-08-28T02:26:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<p>#わかばちゃんと学ぶシリーズ #マンガでわかるGit #著書</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a tar
+    
+    </summary>
+    
+      <category term="books" scheme="https://github.com/llminatoll/categories/books/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test5</title>
+    <link href="https://github.com/llminatoll/2017/08/28/367.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/367.html/</id>
+    <published>2017-08-28T02:26:01.000Z</published>
+    <updated>2017-08-28T02:26:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>test5</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test5&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test2</title>
-    <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/28/364.html/"/>
-    <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/28/364.html/</id>
+    <link href="https://github.com/llminatoll/2017/08/28/364.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/364.html/</id>
     <published>2017-08-27T19:42:10.000Z</published>
     <updated>2017-08-27T19:42:10.000Z</updated>
     
@@ -37,8 +123,8 @@
   
   <entry>
     <title>わかばちゃんと学ぶGit使い方入門 評判まとめ</title>
-    <link href="https://github.com/llminatoll/llminatoll.github.io/2017/08/28/324.html/"/>
-    <id>https://github.com/llminatoll/llminatoll.github.io/2017/08/28/324.html/</id>
+    <link href="https://github.com/llminatoll/2017/08/28/324.html/"/>
+    <id>https://github.com/llminatoll/2017/08/28/324.html/</id>
     <published>2017-08-27T17:30:57.000Z</published>
     <updated>2017-08-27T17:30:57.000Z</updated>
     
