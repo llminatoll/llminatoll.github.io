@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-08-31T03:12:15.794Z</updated>
+  <updated>2017-08-31T03:14:43.415Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>マンガでわかるGit連載中</title>
     <link href="https://github.com/llminatoll/2017/08/31/372.html/"/>
     <id>https://github.com/llminatoll/2017/08/31/372.html/</id>
-    <published>2017-08-31T03:12:15.794Z</published>
-    <updated>2017-08-31T03:12:15.794Z</updated>
+    <published>2017-08-31T03:14:43.415Z</published>
+    <updated>2017-08-31T03:14:43.415Z</updated>
     
     <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
 <h2 id="マンガでわかるGit"><a href="#マンガでわかるGit" class="headerlink" title="マンガでわかるGit"></a><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a></h2><p><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"></p>
@@ -38,6 +38,7 @@
 <p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
 <p>全国の書店・Amazonにて発売中です。</p>
 <p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
 ]]></content>
     
     <summary type="html">
