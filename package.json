@@ -20,7 +20,7 @@
     "hexo-server": "^0.2.2",
     "jquery": "^3.2.1"
   },
-  "description": "esa→Hexo連動でポートフォリオを作るテスト",
+  "description": "湊川あい ポートフォリオサイト",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
