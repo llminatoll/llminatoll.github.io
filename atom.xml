@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-01T17:28:37.000Z</updated>
+  <updated>2017-09-01T17:34:20.579Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>マンガでわかるGit連載中</title>
+    <link href="https://github.com/llminatoll/2017/09/01/372.html/"/>
+    <id>https://github.com/llminatoll/2017/09/01/372.html/</id>
+    <published>2017-09-01T17:34:20.579Z</published>
+    <updated>2017-09-01T17:34:20.579Z</updated>
+    
+    <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
+<h2 id="マンガでわかるGit"><a href="#マンガでわかるGit" class="headerlink" title="マンガでわかるGit"></a><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a></h2><p><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"></p>
+<h3 id="登場人物"><a href="#登場人物" class="headerlink" title="登場人物"></a>登場人物</h3><p><img alt="gitpr.png (240.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png"></p>
+<a id="more"></a>
+<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>マイペースな大学生、わかばちゃんが主人公。<br>幸か不幸か、変なゼミに入ってしまって……！？<br>わかばちゃんは、「いにしえの手動バックアップ」から卒業できるのか？</p>
+<h3 id="前作のキャラクターも登場"><a href="#前作のキャラクターも登場" class="headerlink" title="前作のキャラクターも登場"></a>前作のキャラクターも登場</h3><p><a href="https://goo.gl/wEZLEY" target="_blank" rel="external">わかばちゃんと学ぶWebサイト制作の基本</a>で登場したキャラクターも、ちょこちょこ出てきますので、前作でわかばちゃんシリーズを知った人も楽しめる内容になっています。</p>
+<h3 id="連動クイズも出題中！"><a href="#連動クイズも出題中！" class="headerlink" title="連動クイズも出題中！"></a>連動クイズも出題中！</h3><p>CodeIQにて、@tbpgrさん作問による <a href="https://codeiq.jp/q/3063" target="_blank" rel="external">Git連動クイズ</a>も出題されているので、ぜひ挑戦してみてくださいね。<br>全5問の選択式クイズで、全問正解するとおまけの１コマが見られます！</p>
+<h3 id="マンガでわかるGitが書籍化しました！"><a href="#マンガでわかるGitが書籍化しました！" class="headerlink" title="マンガでわかるGitが書籍化しました！"></a>マンガでわかるGitが書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<ul>
+<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
+<li>監修：DQNEO</li>
+</ul>
+<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
+<p>全国の書店・Amazonにて発売中です。</p>
+<h2 id="書籍の冒頭を試し読みする"><a href="#書籍の冒頭を試し読みする" class="headerlink" title="書籍の冒頭を試し読みする"></a>書籍の冒頭を試し読みする</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
+&lt;h2 id=&quot;マンガでわかるGit&quot;&gt;&lt;a href=&quot;#マンガでわかるGit&quot; class=&quot;headerlink&quot; title=&quot;マンガでわかるGit&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img alt=&quot;catch_git_01.png (212.8 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;登場人物&quot;&gt;&lt;a href=&quot;#登場人物&quot; class=&quot;headerlink&quot; title=&quot;登場人物&quot;&gt;&lt;/a&gt;登場人物&lt;/h3&gt;&lt;p&gt;&lt;img alt=&quot;gitpr.png (240.3 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
+    
+  </entry>
   
   <entry>
     <title>わかばちゃんと学ぶGit使い方入門</title>
@@ -114,43 +155,6 @@
       <category term="わかばちゃんと学ぶGit使い方入門" scheme="https://github.com/llminatoll/tags/%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80/"/>
     
       <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>マンガでわかるGit連載中</title>
-    <link href="https://github.com/llminatoll/2017/09/01/372.html/"/>
-    <id>https://github.com/llminatoll/2017/09/01/372.html/</id>
-    <published>2017-09-01T16:43:33.000Z</published>
-    <updated>2017-09-01T16:43:33.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
-<h2 id="マンガでわかるGit"><a href="#マンガでわかるGit" class="headerlink" title="マンガでわかるGit"></a><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a></h2><p><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"></p>
-<h3 id="登場人物"><a href="#登場人物" class="headerlink" title="登場人物"></a>登場人物</h3><p><img alt="gitpr.png (240.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png"></p>
-<a id="more"></a>
-<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>マイペースな大学生、わかばちゃんが主人公。<br>幸か不幸か、変なゼミに入ってしまって……！？<br>わかばちゃんは、「いにしえの手動バックアップ」から卒業できるのか？</p>
-<h3 id="前作のキャラクターも登場"><a href="#前作のキャラクターも登場" class="headerlink" title="前作のキャラクターも登場"></a>前作のキャラクターも登場</h3><p><a href="https://goo.gl/wEZLEY" target="_blank" rel="external">わかばちゃんと学ぶWebサイト制作の基本</a>で登場したキャラクターも、ちょこちょこ出てきますので、前作でわかばちゃんシリーズを知った人も楽しめる内容になっています。</p>
-<h3 id="連動クイズも出題中！"><a href="#連動クイズも出題中！" class="headerlink" title="連動クイズも出題中！"></a>連動クイズも出題中！</h3><p>CodeIQにて、@tbpgrさん作問による <a href="https://codeiq.jp/q/3063" target="_blank" rel="external">Git連動クイズ</a>も出題されているので、ぜひ挑戦してみてくださいね。<br>全5問の選択式クイズで、全問正解するとおまけの１コマが見られます！</p>
-<h3 id="マンガでわかるGitが書籍化しました！"><a href="#マンガでわかるGitが書籍化しました！" class="headerlink" title="マンガでわかるGitが書籍化しました！"></a>マンガでわかるGitが書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
-<ul>
-<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
-<li>監修：DQNEO</li>
-</ul>
-<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
-<p>全国の書店・Amazonにて発売中です。</p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
-&lt;h2 id=&quot;マンガでわかるGit&quot;&gt;&lt;a href=&quot;#マンガでわかるGit&quot; class=&quot;headerlink&quot; title=&quot;マンガでわかるGit&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img alt=&quot;catch_git_01.png (212.8 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;登場人物&quot;&gt;&lt;a href=&quot;#登場人物&quot; class=&quot;headerlink&quot; title=&quot;登場人物&quot;&gt;&lt;/a&gt;登場人物&lt;/h3&gt;&lt;p&gt;&lt;img alt=&quot;gitpr.png (240.3 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
     
   </entry>
   
