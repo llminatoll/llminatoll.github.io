@@ -6,13 +6,14 @@ $open-sans:            'Open Sans', sans-serif;
 $open-sans-sans-serif: 'Open Sans', sans-serif;
 $merriweather-serif:   'Merriweather', sans-serif;
 $monospace:             Menlo, Consolas, monospace;
-$wf-mplus1p:            'Mplus 1p', sans-serif;
+$wf-mplus1p:           'Mplus 1p', sans-serif;
+$wf-roundedmplus1c:     'Rounded Mplus 1c', sans-serif;
 
 $font-family-base: $wf-mplus1p;
 
 $font-families: (
    // base
-   'headings':          $open-sans-sans-serif,
+   'headings':          $wf-mplus1p,
    // components
    'code':              $monospace,
    'caption':           $wf-mplus1p,
