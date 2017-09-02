@@ -2160,10 +2160,10 @@ a.fancybox {
   .postShorten .postShorten-readingtime {
     color: #9eabb3; }
   .postShorten .postShorten-excerpt_link {
-    margin-top: -15px; }
+    margin-top: -15px;
+    text-align: right; }
   .postShorten .postShorten-meta,
-  .postShorten .postShorten-readingtime,
-  .postShorten .postShorten-excerpt_link {
+  .postShorten .postShorten-readingtime {
     font-family: "Mplus 1p", sans-serif;
     font-size: 1.3rem;
     font-weight: 400; }
