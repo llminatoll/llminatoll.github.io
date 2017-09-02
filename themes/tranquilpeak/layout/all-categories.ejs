@@ -103,13 +103,16 @@ function displayCategories(category) {
         data-message-one="<%= __('global.categories_found.one') %>"
         data-message-other="<%= __('global.categories_found.other') %>"></h5>
 
-        <section class="boxes">
+    <!--
+     <section class="boxes">
         <% site.categories.sort('name').each(function(category) { %>
             <% if (!category.parent) { %>
                 <%- displayCategories(category) %>
             <% } %>
         <% }); %>
     </section>
+    -->
+
     <section class="boxes">
         <% site.categories.sort('name').each(function(category) { %>
             <% if (!category.parent) { %>
