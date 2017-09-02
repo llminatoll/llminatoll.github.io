@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-02T04:02:24.497Z</updated>
+  <updated>2017-09-02T04:04:18.848Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -19,11 +19,11 @@
     <title>マンガでわかるGit連載中</title>
     <link href="https://github.com/llminatoll/2017/09/02/372.html/"/>
     <id>https://github.com/llminatoll/2017/09/02/372.html/</id>
-    <published>2017-09-02T04:02:24.497Z</published>
-    <updated>2017-09-02T04:02:24.497Z</updated>
+    <published>2017-09-02T04:04:18.848Z</published>
+    <updated>2017-09-02T04:04:18.848Z</updated>
     
-    <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
-<h2 id="マンガでわかるGit"><a href="#マンガでわかるGit" class="headerlink" title="マンガでわかるGit"></a><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a></h2><p><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"></p>
+    <content type="html"><![CDATA[<p><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external"><br><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"><br></a></p>
+<p>リクルートキャリア様メディアサイト「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
 <h3 id="登場人物"><a href="#登場人物" class="headerlink" title="登場人物"></a>登場人物</h3><p><img alt="gitpr.png (240.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png"></p>
 <a id="more"></a>
 <h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>マイペースな大学生、わかばちゃんが主人公。<br>幸か不幸か、変なゼミに入ってしまって……！？<br>わかばちゃんは、「いにしえの手動バックアップ」から卒業できるのか？</p>
@@ -37,22 +37,18 @@
 </ul>
 <p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
 <p>全国の書店・Amazonにて発売中です。</p>
-<h2 id="書籍の冒頭を試し読みする"><a href="#書籍の冒頭を試し読みする" class="headerlink" title="書籍の冒頭を試し読みする"></a>書籍の冒頭を試し読みする</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
 <h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
-&lt;h2 id=&quot;マンガでわかるGit&quot;&gt;&lt;a href=&quot;#マンガでわかるGit&quot; class=&quot;headerlink&quot; title=&quot;マンガでわかるGit&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img alt=&quot;catch_git_01.png (212.8 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img alt=&quot;catch_git_01.png (212.8 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;リクルートキャリア様メディアサイト「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/git-ai/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGit&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
 &lt;h3 id=&quot;登場人物&quot;&gt;&lt;a href=&quot;#登場人物&quot; class=&quot;headerlink&quot; title=&quot;登場人物&quot;&gt;&lt;/a&gt;登場人物&lt;/h3&gt;&lt;p&gt;&lt;img alt=&quot;gitpr.png (240.3 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/f990bc8d-e1ad-4fed-b22f-f50a73936443.png&quot;&gt;&lt;/p&gt;
     
     </summary>
     
-    
-      <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
     
   </entry>
   
@@ -60,11 +56,10 @@
     <title>初等教育本の挿絵</title>
     <link href="https://github.com/llminatoll/2017/09/02/373.html/"/>
     <id>https://github.com/llminatoll/2017/09/02/373.html/</id>
-    <published>2017-09-02T04:02:24.497Z</published>
-    <updated>2017-09-02T04:02:24.497Z</updated>
+    <published>2017-09-02T04:04:18.848Z</published>
+    <updated>2017-09-02T04:04:18.848Z</updated>
     
-    <content type="html"><![CDATA[<p>初等教育をテーマとする本の挿絵を担当しました。</p>
-<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg" alt="work03_2.jpg (116.2 kB)"></p>
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg" alt="work03_2.jpg (116.2 kB)"><br>初等教育をテーマとする本の挿絵を担当しました。</p>
 <a id="more"></a>
 <p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/115f2166-154e-476f-994f-50522568c1e7.jpg" alt="work03_1.jpg (121.5 kB)"></p>
 <p>黒板に描かれている図はベン図になっており、実際の本の内容に合わせてあります。</p>
@@ -78,41 +73,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;初等教育をテーマとする本の挿絵を担当しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg&quot; alt=&quot;work03_2.jpg (116.2 kB)&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CodeIQ自動採点問題</title>
-    <link href="https://github.com/llminatoll/2017/09/02/374.html/"/>
-    <id>https://github.com/llminatoll/2017/09/02/374.html/</id>
-    <published>2017-09-02T04:02:24.497Z</published>
-    <updated>2017-09-02T04:02:24.497Z</updated>
-    
-    <content type="html"><![CDATA[<p>CodeIQ出題者の<a href="http://tbpgr.hatenablog.com/" target="_blank">Tbpgr様</a>からご依頼をいただき、プログラミングの実力を試せるサイト「<a href="https://codeiq.jp/" target="_blank">CodeIQ</a>」の<a href="https://codeiq.jp/q/1705" target="_blank">自動採点問題</a>のアイキャッチイラストを描かせていただきました。</p>
-<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/03d6c31a-e118-41fb-9c86-3c55831630c9.jpg" alt="work02_2.jpg (226.5 kB)"></p>
-<a id="more"></a>
-<p>「自動採点問題を定期的に出題することになったため、自動採点向けのアイキャッチ画像を作ってほしい」「自動採点でありながらも、”人間味”をもたせたい」ということでご依頼をいただきました。</p>
-<p>髪飾りが左右で○×になっているところがポイントです。</p>
-<p>Web上で縮小されて表示されても、「パッと見て意味が伝わる」「気になってクリックしたくなる」ことを心がけ、イラストでありながらもバナーを作る感覚で制作いたしました。</p>
-<p>おかげさまで、数多くのプログラミングクイズの出題に使っていただき大変嬉しく思っております。</p>
-<h2 id="湊川あいの著書"><a href="#湊川あいの著書" class="headerlink" title="湊川あいの著書"></a>湊川あいの著書</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;CodeIQ出題者の&lt;a href=&quot;http://tbpgr.hatenablog.com/&quot; target=&quot;_blank&quot;&gt;Tbpgr様&lt;/a&gt;からご依頼をいただき、プログラミングの実力を試せるサイト「&lt;a href=&quot;https://codeiq.jp/&quot; target=&quot;_blank&quot;&gt;CodeIQ&lt;/a&gt;」の&lt;a href=&quot;https://codeiq.jp/q/1705&quot; target=&quot;_blank&quot;&gt;自動採点問題&lt;/a&gt;のアイキャッチイラストを描かせていただきました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/03d6c31a-e118-41fb-9c86-3c55831630c9.jpg&quot; alt=&quot;work02_2.jpg (226.5 kB)&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg&quot; alt=&quot;work03_2.jpg (116.2 kB)&quot;&gt;&lt;br&gt;初等教育をテーマとする本の挿絵を担当しました。&lt;/p&gt;
     
     </summary>
     
@@ -125,8 +86,8 @@
     <title>SVG+CSSによるヘッダーデザイン</title>
     <link href="https://github.com/llminatoll/2017/09/02/375.html/"/>
     <id>https://github.com/llminatoll/2017/09/02/375.html/</id>
-    <published>2017-09-02T04:02:24.497Z</published>
-    <updated>2017-09-02T04:02:24.497Z</updated>
+    <published>2017-09-02T04:04:18.848Z</published>
+    <updated>2017-09-02T04:04:18.848Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/c786bb01-11a6-4fdd-a095-048912ea51ed.png" alt="work04_1.png (265.2 kB)"></p>
 <p><a href="http://dqn.sakusakutto.jp/" target="_blank">DQNEO起業日記</a>の<a href="https://twitter.com/DQNEO" target="_blank">DQNEO様</a>から、「サイトヘッダーの読み込みを早くするため、200KB以下に軽量化したい」ということでご依頼をいただきました。</p>
@@ -150,6 +111,39 @@
     </summary>
     
       <category term="Webのお仕事" scheme="https://github.com/llminatoll/categories/Web%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CodeIQ自動採点問題</title>
+    <link href="https://github.com/llminatoll/2017/09/02/374.html/"/>
+    <id>https://github.com/llminatoll/2017/09/02/374.html/</id>
+    <published>2017-09-02T04:04:18.848Z</published>
+    <updated>2017-09-02T04:04:18.848Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/03d6c31a-e118-41fb-9c86-3c55831630c9.jpg" alt="work02_2.jpg (226.5 kB)"></p>
+<p>CodeIQ出題者の<a href="http://tbpgr.hatenablog.com/" target="_blank">Tbpgr様</a>からご依頼をいただき、プログラミングの実力を試せるサイト「<a href="https://codeiq.jp/" target="_blank">CodeIQ</a>」の<a href="https://codeiq.jp/q/1705" target="_blank">自動採点問題</a>のアイキャッチイラストを描かせていただきました。</p>
+<a id="more"></a>
+<p>「自動採点問題を定期的に出題することになったため、自動採点向けのアイキャッチ画像を作ってほしい」「自動採点でありながらも、”人間味”をもたせたい」ということでご依頼をいただきました。</p>
+<p>髪飾りが左右で○×になっているところがポイントです。</p>
+<p>Web上で縮小されて表示されても、「パッと見て意味が伝わる」「気になってクリックしたくなる」ことを心がけ、イラストでありながらもバナーを作る感覚で制作いたしました。</p>
+<p>おかげさまで、数多くのプログラミングクイズの出題に使っていただき大変嬉しく思っております。</p>
+<h2 id="湊川あいの著書"><a href="#湊川あいの著書" class="headerlink" title="湊川あいの著書"></a>湊川あいの著書</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/03d6c31a-e118-41fb-9c86-3c55831630c9.jpg&quot; alt=&quot;work02_2.jpg (226.5 kB)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;CodeIQ出題者の&lt;a href=&quot;http://tbpgr.hatenablog.com/&quot; target=&quot;_blank&quot;&gt;Tbpgr様&lt;/a&gt;からご依頼をいただき、プログラミングの実力を試せるサイト「&lt;a href=&quot;https://codeiq.jp/&quot; target=&quot;_blank&quot;&gt;CodeIQ&lt;/a&gt;」の&lt;a href=&quot;https://codeiq.jp/q/1705&quot; target=&quot;_blank&quot;&gt;自動採点問題&lt;/a&gt;のアイキャッチイラストを描かせていただきました。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
     
     
   </entry>
