@@ -44,10 +44,10 @@
     .postShorten-excerpt_link {
         // Bring the post's link nearest of the excerpt
         margin-top: -15px;
+        text-align: right;
     }
     .postShorten-meta,
-    .postShorten-readingtime,
-    .postShorten-excerpt_link {
+    .postShorten-readingtime {
         font-family: map-get($font-families, 'post-excerpt-link');
         font-size:   map-get($font-size, small);
         font-weight: 400;

@@ -56,13 +56,17 @@
                 <div class="postShorten-excerpt" itemprop="articleBody">
                     <%- post.excerpt %>
                     <% if (post.link && _('post.go_to_website')) { %>
-                        <a href="<%- url_for(post.link) %>" target="new" class="postShorten-excerpt_link link">
+                      <div class="postShorten-excerpt_link">
+                        <a href="<%- url_for(post.link) %>" target="new" class="link">
                             <%= __('post.go_to_website') %>
                         </a>
+                      </div>
                     <% } else if (__('post.read_more')) { %>
-                        <a href="<%- url_for(post.path) %>" class="postShorten-excerpt_link link">
+                      <div class="postShorten-excerpt_link">
+                        <a href="<%- url_for(post.path) %>" class="link">
                             <%- __('post.read_more') %>
                         </a>
+                      </div>
                         <% if (post.readingtime) { %>
                             <span class="postShorten-readingtime">
                                 <%= ' - ' + post.readingtime + ' min read' %>
