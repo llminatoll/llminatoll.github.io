@@ -18,6 +18,7 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.2",
+    "hexo-tag-twitter": "^1.0.0",
     "jquery": "^3.2.1"
   },
   "description": "湊川あい ポートフォリオサイト",
