@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-02T12:50:31.673Z</updated>
+  <updated>2017-09-02T13:03:57.192Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -16,11 +16,96 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>「Git超入門」Schoo講師</title>
+    <link href="https://github.com/llminatoll/2017/09/02/379.html/"/>
+    <id>https://github.com/llminatoll/2017/09/02/379.html/</id>
+    <published>2017-09-02T13:03:57.192Z</published>
+    <updated>2017-09-02T13:03:57.192Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
+<p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
+<h2 id="全6回"><a href="#全6回" class="headerlink" title="全6回"></a>全6回</h2><ul>
+<li><ol>
+<li>Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう</li>
+</ol>
+</li>
+<li><ol>
+<li>ファイルの変更を記録しよう</li>
+</ol>
+</li>
+<li><ol>
+<li>並行世界を作ろう</li>
+</ol>
+</li>
+<li><ol>
+<li>GitHubを使ってみよう</li>
+</ol>
+</li>
+<li><ol>
+<li>プルリクエストしてみよう</li>
+</ol>
+</li>
+<li><ol>
+<li>総復習 + まだまだある、便利な機能</li>
+</ol>
+</li>
+</ul>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885767407150571524" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a id="more"></a>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885456519860441089" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885458514520309760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885794729446612992" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885882918458900480" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/889344593447182336" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/893799937355300864" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg&quot; alt=&quot;4228.jpg (46.5 kB)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;動画学習サービスSchoo（スクー）にて、&lt;a href=&quot;https://schoo.jp/class/4228&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;わかばちゃんと動画で学ぶ Git超入門&lt;/a&gt;の講師を担当しています。&lt;br&gt;授業はWeb上でご覧いただけます。&lt;/p&gt;
+&lt;h2 id=&quot;全6回&quot;&gt;&lt;a href=&quot;#全6回&quot; class=&quot;headerlink&quot; title=&quot;全6回&quot;&gt;&lt;/a&gt;全6回&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;ファイルの変更を記録しよう&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;並行世界を作ろう&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;GitHubを使ってみよう&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;プルリクエストしてみよう&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;総復習 + まだまだある、便利な機能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/llminatoll/status/885767407150571524&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+      <category term="講師・登壇のお仕事" scheme="https://github.com/llminatoll/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>大阪丼イメージキャラクター</title>
     <link href="https://github.com/llminatoll/2017/09/02/377.html/"/>
     <id>https://github.com/llminatoll/2017/09/02/377.html/</id>
-    <published>2017-09-02T12:50:31.673Z</published>
-    <updated>2017-09-02T12:50:31.673Z</updated>
+    <published>2017-09-02T13:03:57.188Z</published>
+    <updated>2017-09-02T13:03:57.188Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png" alt="オオサカドン" width="200px"></p>
 <p>マストドンの大阪弁インスタンス、<a href="https://mstdn.osaka/about" target="_blank" rel="external">大阪丼：mstdn.osaka</a>に、イメージキャラクターのイラストを提供いたしました。</p>
