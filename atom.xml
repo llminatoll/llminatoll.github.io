@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-01T17:34:20.579Z</updated>
+  <updated>2017-09-02T03:52:58.305Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>マンガでわかるGit連載中</title>
-    <link href="https://github.com/llminatoll/2017/09/01/372.html/"/>
-    <id>https://github.com/llminatoll/2017/09/01/372.html/</id>
-    <published>2017-09-01T17:34:20.579Z</published>
-    <updated>2017-09-01T17:34:20.579Z</updated>
+    <link href="https://github.com/llminatoll/2017/09/02/372.html/"/>
+    <id>https://github.com/llminatoll/2017/09/02/372.html/</id>
+    <published>2017-09-02T03:52:58.305Z</published>
+    <updated>2017-09-02T03:52:58.305Z</updated>
     
     <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>をWeb連載中です。</p>
 <h2 id="マンガでわかるGit"><a href="#マンガでわかるGit" class="headerlink" title="マンガでわかるGit"></a><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a></h2><p><img alt="catch_git_01.png (212.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/08/31/7092/37e6759b-8a2d-4932-a673-d97db70721a4.png"></p>
@@ -53,6 +53,34 @@
     
     
       <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本の挿絵</title>
+    <link href="https://github.com/llminatoll/2017/09/02/373.html/"/>
+    <id>https://github.com/llminatoll/2017/09/02/373.html/</id>
+    <published>2017-09-02T03:52:58.305Z</published>
+    <updated>2017-09-02T03:52:58.305Z</updated>
+    
+    <content type="html"><![CDATA[<p>初等教育をテーマとする本の挿絵を担当しました。</p>
+<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg" alt="work03_2.jpg (116.2 kB)"></p>
+<a id="more"></a>
+<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/115f2166-154e-476f-994f-50522568c1e7.jpg" alt="work03_1.jpg (121.5 kB)"></p>
+<p>黒板に描かれている図はベン図になっており、実際の本の内容に合わせてあります。</p>
+<p>初等教育をテーマにした本なので、水彩タッチでかわらしい雰囲気が出るように心がけました。</p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;初等教育をテーマとする本の挿絵を担当しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25fed233-94f8-411e-8ce8-17b1419cbf4b.jpg&quot; alt=&quot;work03_2.jpg (116.2 kB)&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
     
   </entry>
   
