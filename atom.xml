@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-14T12:28:38.707Z</updated>
+  <updated>2017-09-15T11:34:11.319Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -16,35 +16,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
-    <link href="https://github.com/llminatoll/2017/09/14/388.html/"/>
-    <id>https://github.com/llminatoll/2017/09/14/388.html/</id>
-    <published>2017-09-14T12:28:38.707Z</published>
-    <updated>2017-09-14T12:28:38.707Z</updated>
+    <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
+    <link href="https://github.com/llminatoll/2017/09/15/389.html/"/>
+    <id>https://github.com/llminatoll/2017/09/15/389.html/</id>
+    <published>2017-09-15T11:34:11.319Z</published>
+    <updated>2017-09-15T11:34:11.319Z</updated>
     
-    <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
-<h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
-<h2 id="後編"><a href="#後編" class="headerlink" title="後編"></a>後編</h2><h3 id="sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話"><a href="#sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話" class="headerlink" title="sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話"></a><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external">sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話</a></h3><p><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiB.png (57.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c90b5ad3-4dce-4926-87ef-068999491e8a.png"></a></p>
+    <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
+<p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
+<a id="more"></a>
+<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>普段あまり目立たず、地味なイメージのシステム運用の人たち。<br>いったいどんなコトしているんだろう？<br> 運用のお仕事の苦労や醍醐味って？<br>価値ある運用者になるためには？<br>妖精「運用☆ちゃん」が、システム運用担当者 海野 遥子（うんの ようこ）と体当たりでお伝えします。</p>
+<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<ul>
+<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
+<li>監修：DQNEO</li>
+</ul>
+<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
+<p>全国の書店・Amazonにて発売中です。</p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Tech系Podcast &lt;a href=&quot;https://shiganai.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;しがないラジオ&lt;/a&gt; に、湊川あいがゲスト出演いたしました。&lt;/p&gt;
-&lt;h2 id=&quot;前編&quot;&gt;&lt;a href=&quot;#前編&quot;
+      &lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜&lt;/a&gt;のWeb連載がスタートしました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお読みいただけます。&lt;/p&gt;
     
     </summary>
     
-      <category term="メディア掲載・インタビュー" scheme="https://github.com/llminatoll/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+      <category term="マンガのお仕事" scheme="https://github.com/llminatoll/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
-    <link href="https://github.com/llminatoll/2017/09/14/387.html/"/>
-    <id>https://github.com/llminatoll/2017/09/14/387.html/</id>
-    <published>2017-09-14T12:28:38.707Z</published>
-    <updated>2017-09-14T12:28:38.707Z</updated>
+    <link href="https://github.com/llminatoll/2017/09/15/387.html/"/>
+    <id>https://github.com/llminatoll/2017/09/15/387.html/</id>
+    <published>2017-09-15T11:34:11.319Z</published>
+    <updated>2017-09-15T11:34:11.319Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
 <p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
@@ -67,39 +78,26 @@
   </entry>
   
   <entry>
-    <title>SVG+CSSによるヘッダーデザイン</title>
-    <link href="https://github.com/llminatoll/2017/09/13/375.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/375.html/</id>
-    <published>2017-09-13T02:29:06.000Z</published>
-    <updated>2017-09-13T02:29:06.000Z</updated>
+    <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
+    <link href="https://github.com/llminatoll/2017/09/15/388.html/"/>
+    <id>https://github.com/llminatoll/2017/09/15/388.html/</id>
+    <published>2017-09-15T11:34:11.319Z</published>
+    <updated>2017-09-15T11:34:11.319Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/c786bb01-11a6-4fdd-a095-048912ea51ed.png" alt="work04_1.png (265.2 kB)"></p>
-<p><a href="http://dqn.sakusakutto.jp/" target="_blank">DQNEO起業日記</a>の<a href="https://twitter.com/DQNEO" target="_blank">DQNEO様</a>から、「サイトヘッダーの読み込みを早くするため、200KB以下に軽量化したい」ということでご依頼をいただきました。</p>
-<p>デザインのイメージチェンジも兼ねつつ、サイトヘッダー部分のファイル容量は111KBに軽量化することができました。</p>
-<a id="more"></a>
-<p>「SVGファイル・CSSファイルで制作。光のような効果を入れツヤッとしたデザインに仕上げました。</p>
-<p>質感を出すためにテクスチャとして一部pngファイルを使っています。 「青系のシンプルなデザイン」というご希望に合わせて仕上げました。</p>
-<h2 id="湊川あいの著書"><a href="#湊川あいの著書" class="headerlink" title="湊川あいの著書"></a>湊川あいの著書</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+    <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
+<h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
+<h2 id="後編"><a href="#後編" class="headerlink" title="後編"></a>後編</h2><h3 id="sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話"><a href="#sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話" class="headerlink" title="sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話"></a><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external">sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話</a></h3><p><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiB.png (57.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c90b5ad3-4dce-4926-87ef-068999491e8a.png"></a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/c786bb01-11a6-4fdd-a095-048912ea51ed.png&quot; alt=&quot;work04_1.png (265.2 kB)&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://dqn.sakusakutto.jp/&quot; target=&quot;_blank&quot;&gt;DQNEO起業日記&lt;/a&gt;の&lt;a href=&quot;https://twitter.com/DQNEO&quot; target=&quot;_blank&quot;&gt;DQNEO様&lt;/a&gt;から、「サイトヘッダーの読み込みを早くするため、200KB以下に軽量化したい」ということでご依頼をいただきました。&lt;/p&gt;
-&lt;p&gt;デザインのイメージチェンジも兼ねつつ、サイトヘッダー部分のファイル容量は111KBに軽量化することができました。&lt;/p&gt;
+      &lt;p&gt;Tech系Podcast &lt;a href=&quot;https://shiganai.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;しがないラジオ&lt;/a&gt; に、湊川あいがゲスト出演いたしました。&lt;/p&gt;
+&lt;h2 id=&quot;前編&quot;&gt;&lt;a href=&quot;#前編&quot;
     
     </summary>
     
-      <category term="Webのお仕事" scheme="https://github.com/llminatoll/categories/Web%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+      <category term="メディア掲載・インタビュー" scheme="https://github.com/llminatoll/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
     
-    
-      <category term="SVG" scheme="https://github.com/llminatoll/tags/SVG/"/>
-    
-      <category term="CSS" scheme="https://github.com/llminatoll/tags/CSS/"/>
     
   </entry>
   
@@ -247,6 +245,50 @@
   </entry>
   
   <entry>
+    <title>マンガでわかるGoogleアナリティクス</title>
+    <link href="https://github.com/llminatoll/2017/09/13/376.html/"/>
+    <id>https://github.com/llminatoll/2017/09/13/376.html/</id>
+    <published>2017-09-13T02:29:06.000Z</published>
+    <updated>2017-09-13T02:29:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" target="_blank" rel="external"><br><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/0d7551ce-dd05-41ec-bf7e-6b18bfb305ed.png" alt="ga01_catch2 (1).png (48.4 kB)"><br></a></p>
+<p>クリエイターズネクスト様Webサイト「KOBITブログ」にて、<a href="https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" target="_blank" rel="external">マンガでわかるGoogleアナリティクス</a>をWeb連載中です。</p>
+<h3 id="登場人物"><a href="#登場人物" class="headerlink" title="登場人物"></a>登場人物</h3><p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25e698b2-96ba-4b9e-a849-85dc06f6f96d.png" alt="ga-character.png (192.9 kB)"></p>
+<a id="more"></a>
+<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>初めてのインターンシップに心を躍らせるわかばちゃん。<br>ところが、配属先は明らかに問題を抱えた部署。</p>
+<p>初心者わかばちゃんは、Googleアナリティクスでダメダメな部署を改善できるのか！？</p>
+<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<ul>
+<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
+<li>監修：DQNEO</li>
+</ul>
+<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
+<p>全国の書店・Amazonにて発売中です。</p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/0d7551ce-dd05-41ec-bf7e-6b18bfb305ed.png&quot; alt=&quot;ga01_catch2 (1).png (48.4 kB)&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;クリエイターズネクスト様Webサイト「KOBITブログ」にて、&lt;a href=&quot;https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGoogleアナリティクス&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
+&lt;h3 id=&quot;登場人物&quot;&gt;&lt;a href=&quot;#登場人物&quot; class=&quot;headerlink&quot; title=&quot;登場人物&quot;&gt;&lt;/a&gt;登場人物&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25e698b2-96ba-4b9e-a849-85dc06f6f96d.png&quot; alt=&quot;ga-character.png (192.9 kB)&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="マンガのお仕事" scheme="https://github.com/llminatoll/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+      <category term="Web連載" scheme="https://github.com/llminatoll/tags/Web%E9%80%A3%E8%BC%89/"/>
+    
+      <category term="「わかばちゃんと学ぶ」シリーズ" scheme="https://github.com/llminatoll/tags/%E3%80%8C%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"/>
+    
+      <category term="マンガでわかるGoogleアナリティクス" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>初等教育本の挿絵</title>
     <link href="https://github.com/llminatoll/2017/09/13/373.html/"/>
     <id>https://github.com/llminatoll/2017/09/13/373.html/</id>
@@ -279,45 +321,6 @@
       <category term="水彩" scheme="https://github.com/llminatoll/tags/%E6%B0%B4%E5%BD%A9/"/>
     
       <category term="子ども向け" scheme="https://github.com/llminatoll/tags/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大阪丼イメージキャラクター</title>
-    <link href="https://github.com/llminatoll/2017/09/13/377.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/377.html/</id>
-    <published>2017-09-13T02:29:06.000Z</published>
-    <updated>2017-09-13T02:29:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png" alt="オオサカドン" width="200px"></p>
-<p>マストドンの大阪弁インスタンス、<a href="https://mstdn.osaka/about" target="_blank" rel="external">大阪丼：mstdn.osaka</a>に、イメージキャラクターのイラストを提供いたしました。</p>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/osakadon_osaka/status/870663345958928386" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a id="more"></a>
-<h2 id="mstdn-osaka-とは？"><a href="#mstdn-osaka-とは？" class="headerlink" title="mstdn.osaka とは？"></a>mstdn.osaka とは？</h2><blockquote>
-<p>大阪弁、関西弁推奨のマストドンインスタンスやねん。<br>大阪人でも関西人でも元大阪人でも、大阪に興味あるだけでもかまへんで。兄ちゃん姉ちゃんおっちゃんおばちゃん誰でも寄ったってな〜。<br>（mstdn.osaka公式サイトより）</p>
-</blockquote>
-<ul>
-<li><a href="https://mstdn.osaka/osakadonvr/" target="_blank" rel="external">VR大阪丼</a></li>
-<li><a href="https://yamasakimasaki.com/mstdn/peeping/index.html" target="_blank" rel="external">Nozokimidon</a></li>
-<li><a href="https://mstdn.osaka/@osakadon" target="_blank" rel="external">オオサカドン</a></li>
-<li><a href="https://mstdn.osaka/wiki/" target="_blank" rel="external">大阪丼wiki</a></li>
-<li><a href="https://discord.gg/qhspsY6" target="_blank" rel="external">Discord(チャット)サーバ</a></li>
-</ul>
-<h2 id="管理人alarkyさんとGitHub上で打ち合わせ"><a href="#管理人alarkyさんとGitHub上で打ち合わせ" class="headerlink" title="管理人alarkyさんとGitHub上で打ち合わせ"></a>管理人alarkyさんとGitHub上で打ち合わせ</h2><p><a href="https://github.com/alarky/mastodon">https://github.com/alarky/mastodon</a><br>こちらのGitHubリポジトリ上でイメージキャラクターについて打ち合わせ・制作いたしました。<br>ソーシャルコーディングならぬソーシャルイラストレーティング、大変楽しい試みでした。</p>
-<h2 id="大阪丼が-ITmediaさんで紹介されました"><a href="#大阪丼が-ITmediaさんで紹介されました" class="headerlink" title="大阪丼が ITmediaさんで紹介されました"></a>大阪丼が ITmediaさんで紹介されました</h2><p><a href="http://www.itmedia.co.jp/news/articles/1705/18/news083.html" target="_blank" rel="external">マストドン初心者にオススメなのは？　気になるインスタンスまとめ</a></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png&quot; alt=&quot;オオサカドン&quot; width=&quot;200px&quot;&gt;&lt;/p&gt;
-&lt;p&gt;マストドンの大阪弁インスタンス、&lt;a href=&quot;https://mstdn.osaka/about&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大阪丼：mstdn.osaka&lt;/a&gt;に、イメージキャラクターのイラストを提供いたしました。&lt;/p&gt;
-&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/osakadon_osaka/status/870663345958928386&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    
-    </summary>
-    
-      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
     
   </entry>
   
@@ -490,46 +493,78 @@
   </entry>
   
   <entry>
-    <title>マンガでわかるGoogleアナリティクス</title>
-    <link href="https://github.com/llminatoll/2017/09/13/376.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/376.html/</id>
+    <title>SVG+CSSによるヘッダーデザイン</title>
+    <link href="https://github.com/llminatoll/2017/09/13/375.html/"/>
+    <id>https://github.com/llminatoll/2017/09/13/375.html/</id>
     <published>2017-09-13T02:29:06.000Z</published>
     <updated>2017-09-13T02:29:06.000Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" target="_blank" rel="external"><br><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/0d7551ce-dd05-41ec-bf7e-6b18bfb305ed.png" alt="ga01_catch2 (1).png (48.4 kB)"><br></a></p>
-<p>クリエイターズネクスト様Webサイト「KOBITブログ」にて、<a href="https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" target="_blank" rel="external">マンガでわかるGoogleアナリティクス</a>をWeb連載中です。</p>
-<h3 id="登場人物"><a href="#登場人物" class="headerlink" title="登場人物"></a>登場人物</h3><p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25e698b2-96ba-4b9e-a849-85dc06f6f96d.png" alt="ga-character.png (192.9 kB)"></p>
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/c786bb01-11a6-4fdd-a095-048912ea51ed.png" alt="work04_1.png (265.2 kB)"></p>
+<p><a href="http://dqn.sakusakutto.jp/" target="_blank">DQNEO起業日記</a>の<a href="https://twitter.com/DQNEO" target="_blank">DQNEO様</a>から、「サイトヘッダーの読み込みを早くするため、200KB以下に軽量化したい」ということでご依頼をいただきました。</p>
+<p>デザインのイメージチェンジも兼ねつつ、サイトヘッダー部分のファイル容量は111KBに軽量化することができました。</p>
 <a id="more"></a>
-<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>初めてのインターンシップに心を躍らせるわかばちゃん。<br>ところが、配属先は明らかに問題を抱えた部署。</p>
-<p>初心者わかばちゃんは、Googleアナリティクスでダメダメな部署を改善できるのか！？</p>
-<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
-<ul>
-<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
-<li>監修：DQNEO</li>
-</ul>
-<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
-<p>全国の書店・Amazonにて発売中です。</p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<p>「SVGファイル・CSSファイルで制作。光のような効果を入れツヤッとしたデザインに仕上げました。</p>
+<p>質感を出すためにテクスチャとして一部pngファイルを使っています。 「青系のシンプルなデザイン」というご希望に合わせて仕上げました。</p>
+<h2 id="湊川あいの著書"><a href="#湊川あいの著書" class="headerlink" title="湊川あいの著書"></a>湊川あいの著書</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
 <h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/0d7551ce-dd05-41ec-bf7e-6b18bfb305ed.png&quot; alt=&quot;ga01_catch2 (1).png (48.4 kB)&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;クリエイターズネクスト様Webサイト「KOBITブログ」にて、&lt;a href=&quot;https://kobit.in/archives/category/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bgoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;マンガでわかるGoogleアナリティクス&lt;/a&gt;をWeb連載中です。&lt;/p&gt;
-&lt;h3 id=&quot;登場人物&quot;&gt;&lt;a href=&quot;#登場人物&quot; class=&quot;headerlink&quot; title=&quot;登場人物&quot;&gt;&lt;/a&gt;登場人物&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/25e698b2-96ba-4b9e-a849-85dc06f6f96d.png&quot; alt=&quot;ga-character.png (192.9 kB)&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/c786bb01-11a6-4fdd-a095-048912ea51ed.png&quot; alt=&quot;work04_1.png (265.2 kB)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://dqn.sakusakutto.jp/&quot; target=&quot;_blank&quot;&gt;DQNEO起業日記&lt;/a&gt;の&lt;a href=&quot;https://twitter.com/DQNEO&quot; target=&quot;_blank&quot;&gt;DQNEO様&lt;/a&gt;から、「サイトヘッダーの読み込みを早くするため、200KB以下に軽量化したい」ということでご依頼をいただきました。&lt;/p&gt;
+&lt;p&gt;デザインのイメージチェンジも兼ねつつ、サイトヘッダー部分のファイル容量は111KBに軽量化することができました。&lt;/p&gt;
     
     </summary>
     
-      <category term="マンガのお仕事" scheme="https://github.com/llminatoll/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+      <category term="Webのお仕事" scheme="https://github.com/llminatoll/categories/Web%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
     
     
-      <category term="Web連載" scheme="https://github.com/llminatoll/tags/Web%E9%80%A3%E8%BC%89/"/>
+      <category term="SVG" scheme="https://github.com/llminatoll/tags/SVG/"/>
     
-      <category term="「わかばちゃんと学ぶ」シリーズ" scheme="https://github.com/llminatoll/tags/%E3%80%8C%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"/>
+      <category term="CSS" scheme="https://github.com/llminatoll/tags/CSS/"/>
     
-      <category term="マンガでわかるGoogleアナリティクス" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9/"/>
+  </entry>
+  
+  <entry>
+    <title>大阪丼イメージキャラクター</title>
+    <link href="https://github.com/llminatoll/2017/09/13/377.html/"/>
+    <id>https://github.com/llminatoll/2017/09/13/377.html/</id>
+    <published>2017-09-13T02:29:06.000Z</published>
+    <updated>2017-09-13T02:29:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png" alt="オオサカドン" width="200px"></p>
+<p>マストドンの大阪弁インスタンス、<a href="https://mstdn.osaka/about" target="_blank" rel="external">大阪丼：mstdn.osaka</a>に、イメージキャラクターのイラストを提供いたしました。</p>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/osakadon_osaka/status/870663345958928386" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a id="more"></a>
+<h2 id="mstdn-osaka-とは？"><a href="#mstdn-osaka-とは？" class="headerlink" title="mstdn.osaka とは？"></a>mstdn.osaka とは？</h2><blockquote>
+<p>大阪弁、関西弁推奨のマストドンインスタンスやねん。<br>大阪人でも関西人でも元大阪人でも、大阪に興味あるだけでもかまへんで。兄ちゃん姉ちゃんおっちゃんおばちゃん誰でも寄ったってな〜。<br>（mstdn.osaka公式サイトより）</p>
+</blockquote>
+<ul>
+<li><a href="https://mstdn.osaka/osakadonvr/" target="_blank" rel="external">VR大阪丼</a></li>
+<li><a href="https://yamasakimasaki.com/mstdn/peeping/index.html" target="_blank" rel="external">Nozokimidon</a></li>
+<li><a href="https://mstdn.osaka/@osakadon" target="_blank" rel="external">オオサカドン</a></li>
+<li><a href="https://mstdn.osaka/wiki/" target="_blank" rel="external">大阪丼wiki</a></li>
+<li><a href="https://discord.gg/qhspsY6" target="_blank" rel="external">Discord(チャット)サーバ</a></li>
+</ul>
+<h2 id="管理人alarkyさんとGitHub上で打ち合わせ"><a href="#管理人alarkyさんとGitHub上で打ち合わせ" class="headerlink" title="管理人alarkyさんとGitHub上で打ち合わせ"></a>管理人alarkyさんとGitHub上で打ち合わせ</h2><p><a href="https://github.com/alarky/mastodon">https://github.com/alarky/mastodon</a><br>こちらのGitHubリポジトリ上でイメージキャラクターについて打ち合わせ・制作いたしました。<br>ソーシャルコーディングならぬソーシャルイラストレーティング、大変楽しい試みでした。</p>
+<h2 id="大阪丼が-ITmediaさんで紹介されました"><a href="#大阪丼が-ITmediaさんで紹介されました" class="headerlink" title="大阪丼が ITmediaさんで紹介されました"></a>大阪丼が ITmediaさんで紹介されました</h2><p><a href="http://www.itmedia.co.jp/news/articles/1705/18/news083.html" target="_blank" rel="external">マストドン初心者にオススメなのは？　気になるインスタンスまとめ</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png&quot; alt=&quot;オオサカドン&quot; width=&quot;200px&quot;&gt;&lt;/p&gt;
+&lt;p&gt;マストドンの大阪弁インスタンス、&lt;a href=&quot;https://mstdn.osaka/about&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大阪丼：mstdn.osaka&lt;/a&gt;に、イメージキャラクターのイラストを提供いたしました。&lt;/p&gt;
+&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/osakadon_osaka/status/870663345958928386&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
     
   </entry>
   
