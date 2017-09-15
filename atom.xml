@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-15T11:34:11.319Z</updated>
+  <updated>2017-09-15T11:35:58.739Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
     <link href="https://github.com/llminatoll/2017/09/15/389.html/"/>
     <id>https://github.com/llminatoll/2017/09/15/389.html/</id>
-    <published>2017-09-15T11:34:11.319Z</published>
-    <updated>2017-09-15T11:34:11.319Z</updated>
+    <published>2017-09-15T11:35:58.739Z</published>
+    <updated>2017-09-15T11:35:58.739Z</updated>
     
     <content type="html"><![CDATA[<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
 <p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
@@ -51,11 +51,60 @@
   </entry>
   
   <entry>
+    <title>「Git超入門」Schoo講師</title>
+    <link href="https://github.com/llminatoll/2017/09/15/379.html/"/>
+    <id>https://github.com/llminatoll/2017/09/15/379.html/</id>
+    <published>2017-09-15T11:35:58.739Z</published>
+    <updated>2017-09-15T11:35:58.739Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
+<p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
+<h2 id="全6回"><a href="#全6回" class="headerlink" title="全6回"></a>全6回</h2><ul>
+<li>⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう</li>
+<li>⑵ファイルの変更を記録しよう</li>
+<li>⑶並行世界を作ろう</li>
+<li>⑷GitHubを使ってみよう</li>
+<li>⑸プルリクエストしてみよう</li>
+<li>⑹総復習 + まだまだある、便利な機能</li>
+</ul>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885767407150571524" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a id="more"></a>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885456519860441089" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885458514520309760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885794729446612992" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885882918458900480" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/889344593447182336" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/893799937355300864" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg&quot; alt=&quot;4228.jpg (46.5 kB)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;動画学習サービスSchoo（スクー）にて、&lt;a href=&quot;https://schoo.jp/class/4228&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;わかばちゃんと動画で学ぶ Git超入門&lt;/a&gt;の講師を担当しています。&lt;br&gt;授業はWeb上でご覧いただけます。&lt;/p&gt;
+&lt;h2 id=&quot;全6回&quot;&gt;&lt;a href=&quot;#全6回&quot; class=&quot;headerlink&quot; title=&quot;全6回&quot;&gt;&lt;/a&gt;全6回&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう&lt;/li&gt;
+&lt;li&gt;⑵ファイルの変更を記録しよう&lt;/li&gt;
+&lt;li&gt;⑶並行世界を作ろう&lt;/li&gt;
+&lt;li&gt;⑷GitHubを使ってみよう&lt;/li&gt;
+&lt;li&gt;⑸プルリクエストしてみよう&lt;/li&gt;
+&lt;li&gt;⑹総復習 + まだまだある、便利な機能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/llminatoll/status/885767407150571524&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+      <category term="講師・登壇のお仕事" scheme="https://github.com/llminatoll/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
     <link href="https://github.com/llminatoll/2017/09/15/387.html/"/>
     <id>https://github.com/llminatoll/2017/09/15/387.html/</id>
-    <published>2017-09-15T11:34:11.319Z</published>
-    <updated>2017-09-15T11:34:11.319Z</updated>
+    <published>2017-09-15T11:35:58.739Z</published>
+    <updated>2017-09-15T11:35:58.739Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
 <p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
@@ -81,8 +130,8 @@
     <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
     <link href="https://github.com/llminatoll/2017/09/15/388.html/"/>
     <id>https://github.com/llminatoll/2017/09/15/388.html/</id>
-    <published>2017-09-15T11:34:11.319Z</published>
-    <updated>2017-09-15T11:34:11.319Z</updated>
+    <published>2017-09-15T11:35:58.739Z</published>
+    <updated>2017-09-15T11:35:58.739Z</updated>
     
     <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
 <h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
@@ -98,112 +147,6 @@
     
       <category term="メディア掲載・インタビュー" scheme="https://github.com/llminatoll/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>わかばちゃんと学ぶGit使い方入門</title>
-    <link href="https://github.com/llminatoll/2017/09/13/324.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/324.html/</id>
-    <published>2017-09-13T02:29:06.000Z</published>
-    <updated>2017-09-13T02:29:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 </a><br><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></p>
-<ul>
-<li>著者：湊川あい / 監修：DQNEO</li>
-<li>出版社：シーアンドアール研究所</li>
-</ul>
-<h2 id="Amazonで書籍の冒頭を試し読みできます"><a href="#Amazonで書籍の冒頭を試し読みできます" class="headerlink" title="Amazonで書籍の冒頭を試し読みできます"></a>Amazonで書籍の冒頭を試し読みできます</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<a id="more"></a>
-<h1 id="レビュー"><a href="#レビュー" class="headerlink" title="レビュー"></a>レビュー</h1><h2 id="読者さんから寄せられた感想・書評"><a href="#読者さんから寄せられた感想・書評" class="headerlink" title="読者さんから寄せられた感想・書評"></a>読者さんから寄せられた感想・書評</h2><ul>
-<li><a href="http://ppworks.hatenablog.jp/entry/2017/04/25/213742" target="_blank" rel="external">よーし、Git を学んでチーム開発しちゃうぞ〜って時に読むべき本を発見した</a></li>
-<li><a href="https://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=15&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwj93o2zo_TUAhVFrJQKHXGIBo04ChAWCDkwBA&amp;url=http%3A%2F%2Fpiro.sakura.ne.jp%2Flatest%2Fblosxom%2Freview%2Fbook%2F2017-04-30_wakaba-git.htm&amp;usg=AFQjCNHSjQ4QnDdTpHMorZMMewjOi8Hiiw" target="_blank" rel="external">書評：わかばちゃんと学ぶ Git使い方入門 - Latest topics &gt; outsider reflex</a></li>
-<li><a href="http://yamaimo.hatenablog.jp/entry/2017/04/26/200000" target="_blank" rel="external">『わかばちゃんと学ぶ　Git使い方入門』を読んでみた。</a></li>
-<li><a href="http://kazukichi.hatenadiary.com/entry/2017/04/30/194616" target="_blank" rel="external">『わかばちゃんと学ぶGitの使い方入門』を読んだ感想。</a></li>
-<li><a href="http://bashalog.c-brains.jp/17/04/24-100000.php" target="_blank" rel="external">オススメ書籍紹介：わかばちゃんと学ぶ Git使い方入門 … - バシャログ。</a></li>
-<li><a href="https://www.pc-weblog.com/wakaba-git-book/" target="_blank" rel="external">「わかばちゃんと学ぶ Git使い方入門」を読んでみた - PCウェブログ</a></li>
-<li><a href="http://sironekotoro.hateblo.jp/entry/2017/05/01/144103" target="_blank" rel="external">わかばちゃんと学ぶGit使い方入門 SECTION 01 〜 SECTION 20</a></li>
-<li><a href="http://sironekotoro.hateblo.jp/entry/2017/05/02/095714" target="_blank" rel="external">わかばちゃんと学ぶGit使い方入門 SECTION 21 〜 SECTION 30</a></li>
-<li><a href="https://torina.top/detail/368/" target="_blank" rel="external">お勧め書籍 わかばちゃんと学ぶ Git使い方入門〈GitHub、Bitbucket、SourceTree〉</a></li>
-</ul>
-<h2 id="Amazonレビュー"><a href="#Amazonレビュー" class="headerlink" title="Amazonレビュー"></a>Amazonレビュー</h2><ul>
-<li><a href="https://www.amazon.co.jp/product-reviews/4863542178/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=all_reviews&showViewpoints=1&sortBy=helpful" target="_blank">すべてのAmazonレビューを見る</a></li>
-</ul>
-<h2 id="hontoレビュー"><a href="#hontoレビュー" class="headerlink" title="hontoレビュー"></a>hontoレビュー</h2><ul>
-<li><a href="https://honto.jp/netstore/pd-review_0628429516.html" target="_blank">すべてのhontoレビューを見る</a></li>
-</ul>
-<h2 id="ツイッター上での言及を見る"><a href="#ツイッター上での言及を見る" class="headerlink" title="ツイッター上での言及を見る"></a>ツイッター上での言及を見る</h2><ul>
-<li><a href="https://twitter.com/search?f=tweets&q=%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%20Git&src=typd" target="_blank" rel="external">「わかばちゃんと学ぶ Git」に関するツイートを見る</a></li>
-<li><a href="https://twitter.com/search?f=tweets&vertical=default&q=%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E6%9C%AC%20Git&src=typd" target="_blank" rel="external">「わかばちゃん本 Git」に関するツイートを見る</a></li>
-<li><a href="https://twitter.com/search?f=tweets&vertical=default&q=%23%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80&src=typd" target="_blank" rel="external">「#わかばちゃんと学ぶGit使い方入門」に関するツイートを見る</a></li>
-</ul>
-<hr>
-<h1 id="サンプル"><a href="#サンプル" class="headerlink" title="サンプル"></a>サンプル</h1><h2 id="Web連載"><a href="#Web連載" class="headerlink" title="Web連載"></a>Web連載</h2><ul>
-<li><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">【連載】マンガでわかるGit</a></li>
-</ul>
-<p>CodeIQ MAGAZINEさまにて連載しているわかばちゃんのマンガです。<br>Web連載だけでも、一応push・pullができるところまでは行けます。</p>
-<p>ブランチやマージ、プルリクエスト、リベース、リバート、チェリーピック、GitHub Pages、Bitbucketの使い方など、Gitをしっかり使えるようになりたい方向けには<a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">書籍限定</a>で解説しています。</p>
-<h2 id="プルリク練習用リポジトリ"><a href="#プルリク練習用リポジトリ" class="headerlink" title="プルリク練習用リポジトリ"></a>プルリク練習用リポジトリ</h2><ul>
-<li><a href="https://github.com/elmas3/pull-request-practice">elmas3/pull-request-practice - GitHub</a></li>
-</ul>
-<p>書籍の中の演習で使う、プルリクエスト練習用のリポジトリです。<br>何回でも、好きなだけ練習してください。<br>平均して24時間以内にはエルマスさんがマージしてくれます。</p>
-<hr>
-<h1 id="おまけコンテンツ"><a href="#おまけコンテンツ" class="headerlink" title="おまけコンテンツ"></a>おまけコンテンツ</h1><h2 id="楽しい遊び"><a href="#楽しい遊び" class="headerlink" title="楽しい遊び"></a>楽しい遊び</h2><ul>
-<li><a href="https://togetter.com/li/1025694" target="_blank" rel="external">エビで分かるCSS、寿司で分かるGit</a></li>
-</ul>
-<h2 id="わりと気合い入れて書いたアドベント記事"><a href="#わりと気合い入れて書いたアドベント記事" class="headerlink" title="わりと気合い入れて書いたアドベント記事"></a>わりと気合い入れて書いたアドベント記事</h2><ul>
-<li><a href="http://webdesign-manga.com/emojigit/" target="_blank" rel="external">絵文字でわかるGit🍣 マージとリベースの違い・リセットとリバートの違い</a></li>
-<li><a href="http://webdesign-manga.com/gitcui/" target="_blank" rel="external">【コラボマンガ】怖くない！黒い画面入門【 #シス管系女子 ＋ #マンガでわかるGit 】</a></li>
-</ul>
-<h2 id="インタビュー・登壇記事"><a href="#インタビュー・登壇記事" class="headerlink" title="インタビュー・登壇記事"></a>インタビュー・登壇記事</h2><ul>
-<li><a href="https://kobit.in/archives/8511" target="_blank" rel="external">“マンガでわかるWebデザイン”の湊川あいが語る、マーケティングとKOBITの魅力とは</a></li>
-<li><a href="https://moneyforward.com/engineers_blog/2016/12/19/mf_meetup7/" target="_blank" rel="external">MoneyForward Meetupレポート「奇行・寄稿・紀行と、技術書執筆のお話」</a></li>
-</ul>
-<h2 id="関連スライド"><a href="#関連スライド" class="headerlink" title="関連スライド"></a>関連スライド</h2><ul>
-<li><a href="https://www.slideshare.net/AiMinatogawa/by-69678890" target="_blank" rel="external">ゼロから始める技術書執筆</a></li>
-<li><a href="https://www.slideshare.net/AiMinatogawa/git-git-75225950" target="_blank" rel="external">Git初心者にどう教える？ マンガでわかるGit</a></li>
-<li><a href="https://www.slideshare.net/AiMinatogawa/ss-77194222" target="_blank" rel="external">わかばちゃんと学ぶフリーランスのための情報整理術</a></li>
-</ul>
-<p>著者の「湊川（みなとがわ）あい」が都内の勉強会で登壇した際に使用したスライドです。<br>制作の裏側・どんな人を対象に描いているのか・本に込められた想いなど。スライドは全部無料で読めます。</p>
-<h2 id="ファンブック"><a href="#ファンブック" class="headerlink" title="ファンブック"></a>ファンブック</h2><ul>
-<li><a href="https://note.mu/llminatoll/n/nff432a5bf20b" target="_blank" rel="external">マンガでわかるWebデザイン 設定資料集</a></li>
-<li><a href="https://note.mu/llminatoll/n/n32e5e6fa8686" target="_blank" rel="external">魔王教授と学ぶ Gitコマンド入門</a></li>
-</ul>
-<p>技術書典・コミティアにて湊川あいが販売した個人制作誌です。<br>Web上からでも購入・閲覧できます。</p>
-<h2 id="Amazonで書籍の冒頭を試し読みできます-1"><a href="#Amazonで書籍の冒頭を試し読みできます-1" class="headerlink" title="Amazonで書籍の冒頭を試し読みできます"></a>Amazonで書籍の冒頭を試し読みできます</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
-
-<p><img width="200px" src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/ff87db8d-8f8e-4881-8411-27bc0c09a80f.png"></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4863542178&amp;linkCode=as2&amp;tag=cam51p-22&amp;linkId=7ce9e777aff97d46dcec9f6aedf3429d&quot;&gt;わかばちゃんと学ぶGit使い方入門 &lt;/a&gt;&lt;br&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;著者：湊川あい / 監修：DQNEO&lt;/li&gt;
-&lt;li&gt;出版社：シーアンドアール研究所&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;Amazonで書籍の冒頭を試し読みできます&quot;&gt;&lt;a href=&quot;#Amazonで書籍の冒頭を試し読みできます&quot; class=&quot;headerlink&quot; title=&quot;Amazonで書籍の冒頭を試し読みできます&quot;&gt;&lt;/a&gt;Amazonで書籍の冒頭を試し読みできます&lt;/h2&gt;&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=cam51p-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4863542178&amp;linkId=0cc06e7d54d674b86a3301d4b46a4e7b&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr&quot;&gt;&lt;br&gt;    &lt;/iframe&gt;
-
-&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&amp;t=cam51p-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4863541945&amp;linkId=7ccf8718bd5ba2655e306d1fc87fe62d&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr&quot;&gt;&lt;br&gt;    &lt;/iframe&gt;
-    
-    </summary>
-    
-      <category term="書籍のお仕事" scheme="https://github.com/llminatoll/categories/%E6%9B%B8%E7%B1%8D%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-      <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
-    
-      <category term="「わかばちゃんと学ぶ」シリーズ" scheme="https://github.com/llminatoll/tags/%E3%80%8C%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"/>
-    
-      <category term="著書" scheme="https://github.com/llminatoll/tags/%E8%91%97%E6%9B%B8/"/>
-    
-      <category term="わかばちゃんと学ぶGit使い方入門" scheme="https://github.com/llminatoll/tags/%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80/"/>
     
   </entry>
   
@@ -359,91 +302,6 @@
   </entry>
   
   <entry>
-    <title>「Git超入門」Schoo講師</title>
-    <link href="https://github.com/llminatoll/2017/09/13/379.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/379.html/</id>
-    <published>2017-09-13T02:29:06.000Z</published>
-    <updated>2017-09-13T02:29:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
-<p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
-<h2 id="全6回"><a href="#全6回" class="headerlink" title="全6回"></a>全6回</h2><ul>
-<li><ol>
-<li>Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう</li>
-</ol>
-</li>
-<li><ol>
-<li>ファイルの変更を記録しよう</li>
-</ol>
-</li>
-<li><ol>
-<li>並行世界を作ろう</li>
-</ol>
-</li>
-<li><ol>
-<li>GitHubを使ってみよう</li>
-</ol>
-</li>
-<li><ol>
-<li>プルリクエストしてみよう</li>
-</ol>
-</li>
-<li><ol>
-<li>総復習 + まだまだある、便利な機能</li>
-</ol>
-</li>
-</ul>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885767407150571524" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a id="more"></a>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885456519860441089" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885458514520309760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885794729446612992" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885882918458900480" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/889344593447182336" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/893799937355300864" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg&quot; alt=&quot;4228.jpg (46.5 kB)&quot;&gt;&lt;/p&gt;
-&lt;p&gt;動画学習サービスSchoo（スクー）にて、&lt;a href=&quot;https://schoo.jp/class/4228&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;わかばちゃんと動画で学ぶ Git超入門&lt;/a&gt;の講師を担当しています。&lt;br&gt;授業はWeb上でご覧いただけます。&lt;/p&gt;
-&lt;h2 id=&quot;全6回&quot;&gt;&lt;a href=&quot;#全6回&quot; class=&quot;headerlink&quot; title=&quot;全6回&quot;&gt;&lt;/a&gt;全6回&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;ファイルの変更を記録しよう&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;並行世界を作ろう&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;GitHubを使ってみよう&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;プルリクエストしてみよう&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;総復習 + まだまだある、便利な機能&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/llminatoll/status/885767407150571524&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    
-    </summary>
-    
-      <category term="講師・登壇のお仕事" scheme="https://github.com/llminatoll/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>マンガでわかるGit連載中</title>
     <link href="https://github.com/llminatoll/2017/09/13/372.html/"/>
     <id>https://github.com/llminatoll/2017/09/13/372.html/</id>
@@ -526,6 +384,112 @@
       <category term="SVG" scheme="https://github.com/llminatoll/tags/SVG/"/>
     
       <category term="CSS" scheme="https://github.com/llminatoll/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>わかばちゃんと学ぶGit使い方入門</title>
+    <link href="https://github.com/llminatoll/2017/09/13/324.html/"/>
+    <id>https://github.com/llminatoll/2017/09/13/324.html/</id>
+    <published>2017-09-13T02:29:06.000Z</published>
+    <updated>2017-09-13T02:29:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 </a><br><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></p>
+<ul>
+<li>著者：湊川あい / 監修：DQNEO</li>
+<li>出版社：シーアンドアール研究所</li>
+</ul>
+<h2 id="Amazonで書籍の冒頭を試し読みできます"><a href="#Amazonで書籍の冒頭を試し読みできます" class="headerlink" title="Amazonで書籍の冒頭を試し読みできます"></a>Amazonで書籍の冒頭を試し読みできます</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<a id="more"></a>
+<h1 id="レビュー"><a href="#レビュー" class="headerlink" title="レビュー"></a>レビュー</h1><h2 id="読者さんから寄せられた感想・書評"><a href="#読者さんから寄せられた感想・書評" class="headerlink" title="読者さんから寄せられた感想・書評"></a>読者さんから寄せられた感想・書評</h2><ul>
+<li><a href="http://ppworks.hatenablog.jp/entry/2017/04/25/213742" target="_blank" rel="external">よーし、Git を学んでチーム開発しちゃうぞ〜って時に読むべき本を発見した</a></li>
+<li><a href="https://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=15&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwj93o2zo_TUAhVFrJQKHXGIBo04ChAWCDkwBA&amp;url=http%3A%2F%2Fpiro.sakura.ne.jp%2Flatest%2Fblosxom%2Freview%2Fbook%2F2017-04-30_wakaba-git.htm&amp;usg=AFQjCNHSjQ4QnDdTpHMorZMMewjOi8Hiiw" target="_blank" rel="external">書評：わかばちゃんと学ぶ Git使い方入門 - Latest topics &gt; outsider reflex</a></li>
+<li><a href="http://yamaimo.hatenablog.jp/entry/2017/04/26/200000" target="_blank" rel="external">『わかばちゃんと学ぶ　Git使い方入門』を読んでみた。</a></li>
+<li><a href="http://kazukichi.hatenadiary.com/entry/2017/04/30/194616" target="_blank" rel="external">『わかばちゃんと学ぶGitの使い方入門』を読んだ感想。</a></li>
+<li><a href="http://bashalog.c-brains.jp/17/04/24-100000.php" target="_blank" rel="external">オススメ書籍紹介：わかばちゃんと学ぶ Git使い方入門 … - バシャログ。</a></li>
+<li><a href="https://www.pc-weblog.com/wakaba-git-book/" target="_blank" rel="external">「わかばちゃんと学ぶ Git使い方入門」を読んでみた - PCウェブログ</a></li>
+<li><a href="http://sironekotoro.hateblo.jp/entry/2017/05/01/144103" target="_blank" rel="external">わかばちゃんと学ぶGit使い方入門 SECTION 01 〜 SECTION 20</a></li>
+<li><a href="http://sironekotoro.hateblo.jp/entry/2017/05/02/095714" target="_blank" rel="external">わかばちゃんと学ぶGit使い方入門 SECTION 21 〜 SECTION 30</a></li>
+<li><a href="https://torina.top/detail/368/" target="_blank" rel="external">お勧め書籍 わかばちゃんと学ぶ Git使い方入門〈GitHub、Bitbucket、SourceTree〉</a></li>
+</ul>
+<h2 id="Amazonレビュー"><a href="#Amazonレビュー" class="headerlink" title="Amazonレビュー"></a>Amazonレビュー</h2><ul>
+<li><a href="https://www.amazon.co.jp/product-reviews/4863542178/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=all_reviews&showViewpoints=1&sortBy=helpful" target="_blank">すべてのAmazonレビューを見る</a></li>
+</ul>
+<h2 id="hontoレビュー"><a href="#hontoレビュー" class="headerlink" title="hontoレビュー"></a>hontoレビュー</h2><ul>
+<li><a href="https://honto.jp/netstore/pd-review_0628429516.html" target="_blank">すべてのhontoレビューを見る</a></li>
+</ul>
+<h2 id="ツイッター上での言及を見る"><a href="#ツイッター上での言及を見る" class="headerlink" title="ツイッター上での言及を見る"></a>ツイッター上での言及を見る</h2><ul>
+<li><a href="https://twitter.com/search?f=tweets&q=%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%20Git&src=typd" target="_blank" rel="external">「わかばちゃんと学ぶ Git」に関するツイートを見る</a></li>
+<li><a href="https://twitter.com/search?f=tweets&vertical=default&q=%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E6%9C%AC%20Git&src=typd" target="_blank" rel="external">「わかばちゃん本 Git」に関するツイートを見る</a></li>
+<li><a href="https://twitter.com/search?f=tweets&vertical=default&q=%23%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80&src=typd" target="_blank" rel="external">「#わかばちゃんと学ぶGit使い方入門」に関するツイートを見る</a></li>
+</ul>
+<hr>
+<h1 id="サンプル"><a href="#サンプル" class="headerlink" title="サンプル"></a>サンプル</h1><h2 id="Web連載"><a href="#Web連載" class="headerlink" title="Web連載"></a>Web連載</h2><ul>
+<li><a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">【連載】マンガでわかるGit</a></li>
+</ul>
+<p>CodeIQ MAGAZINEさまにて連載しているわかばちゃんのマンガです。<br>Web連載だけでも、一応push・pullができるところまでは行けます。</p>
+<p>ブランチやマージ、プルリクエスト、リベース、リバート、チェリーピック、GitHub Pages、Bitbucketの使い方など、Gitをしっかり使えるようになりたい方向けには<a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">書籍限定</a>で解説しています。</p>
+<h2 id="プルリク練習用リポジトリ"><a href="#プルリク練習用リポジトリ" class="headerlink" title="プルリク練習用リポジトリ"></a>プルリク練習用リポジトリ</h2><ul>
+<li><a href="https://github.com/elmas3/pull-request-practice">elmas3/pull-request-practice - GitHub</a></li>
+</ul>
+<p>書籍の中の演習で使う、プルリクエスト練習用のリポジトリです。<br>何回でも、好きなだけ練習してください。<br>平均して24時間以内にはエルマスさんがマージしてくれます。</p>
+<hr>
+<h1 id="おまけコンテンツ"><a href="#おまけコンテンツ" class="headerlink" title="おまけコンテンツ"></a>おまけコンテンツ</h1><h2 id="楽しい遊び"><a href="#楽しい遊び" class="headerlink" title="楽しい遊び"></a>楽しい遊び</h2><ul>
+<li><a href="https://togetter.com/li/1025694" target="_blank" rel="external">エビで分かるCSS、寿司で分かるGit</a></li>
+</ul>
+<h2 id="わりと気合い入れて書いたアドベント記事"><a href="#わりと気合い入れて書いたアドベント記事" class="headerlink" title="わりと気合い入れて書いたアドベント記事"></a>わりと気合い入れて書いたアドベント記事</h2><ul>
+<li><a href="http://webdesign-manga.com/emojigit/" target="_blank" rel="external">絵文字でわかるGit🍣 マージとリベースの違い・リセットとリバートの違い</a></li>
+<li><a href="http://webdesign-manga.com/gitcui/" target="_blank" rel="external">【コラボマンガ】怖くない！黒い画面入門【 #シス管系女子 ＋ #マンガでわかるGit 】</a></li>
+</ul>
+<h2 id="インタビュー・登壇記事"><a href="#インタビュー・登壇記事" class="headerlink" title="インタビュー・登壇記事"></a>インタビュー・登壇記事</h2><ul>
+<li><a href="https://kobit.in/archives/8511" target="_blank" rel="external">“マンガでわかるWebデザイン”の湊川あいが語る、マーケティングとKOBITの魅力とは</a></li>
+<li><a href="https://moneyforward.com/engineers_blog/2016/12/19/mf_meetup7/" target="_blank" rel="external">MoneyForward Meetupレポート「奇行・寄稿・紀行と、技術書執筆のお話」</a></li>
+</ul>
+<h2 id="関連スライド"><a href="#関連スライド" class="headerlink" title="関連スライド"></a>関連スライド</h2><ul>
+<li><a href="https://www.slideshare.net/AiMinatogawa/by-69678890" target="_blank" rel="external">ゼロから始める技術書執筆</a></li>
+<li><a href="https://www.slideshare.net/AiMinatogawa/git-git-75225950" target="_blank" rel="external">Git初心者にどう教える？ マンガでわかるGit</a></li>
+<li><a href="https://www.slideshare.net/AiMinatogawa/ss-77194222" target="_blank" rel="external">わかばちゃんと学ぶフリーランスのための情報整理術</a></li>
+</ul>
+<p>著者の「湊川（みなとがわ）あい」が都内の勉強会で登壇した際に使用したスライドです。<br>制作の裏側・どんな人を対象に描いているのか・本に込められた想いなど。スライドは全部無料で読めます。</p>
+<h2 id="ファンブック"><a href="#ファンブック" class="headerlink" title="ファンブック"></a>ファンブック</h2><ul>
+<li><a href="https://note.mu/llminatoll/n/nff432a5bf20b" target="_blank" rel="external">マンガでわかるWebデザイン 設定資料集</a></li>
+<li><a href="https://note.mu/llminatoll/n/n32e5e6fa8686" target="_blank" rel="external">魔王教授と学ぶ Gitコマンド入門</a></li>
+</ul>
+<p>技術書典・コミティアにて湊川あいが販売した個人制作誌です。<br>Web上からでも購入・閲覧できます。</p>
+<h2 id="Amazonで書籍の冒頭を試し読みできます-1"><a href="#Amazonで書籍の冒頭を試し読みできます-1" class="headerlink" title="Amazonで書籍の冒頭を試し読みできます"></a>Amazonで書籍の冒頭を試し読みできます</h2><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863542178&linkId=0cc06e7d54d674b86a3301d4b46a4e7b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=cam51p-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4863541945&linkId=7ccf8718bd5ba2655e306d1fc87fe62d&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"><br>    </iframe>
+
+<p><img width="200px" src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/ff87db8d-8f8e-4881-8411-27bc0c09a80f.png"></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4863542178&amp;linkCode=as2&amp;tag=cam51p-22&amp;linkId=7ce9e777aff97d46dcec9f6aedf3429d&quot;&gt;わかばちゃんと学ぶGit使い方入門 &lt;/a&gt;&lt;br&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;著者：湊川あい / 監修：DQNEO&lt;/li&gt;
+&lt;li&gt;出版社：シーアンドアール研究所&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Amazonで書籍の冒頭を試し読みできます&quot;&gt;&lt;a href=&quot;#Amazonで書籍の冒頭を試し読みできます&quot; class=&quot;headerlink&quot; title=&quot;Amazonで書籍の冒頭を試し読みできます&quot;&gt;&lt;/a&gt;Amazonで書籍の冒頭を試し読みできます&lt;/h2&gt;&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=cam51p-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4863542178&amp;linkId=0cc06e7d54d674b86a3301d4b46a4e7b&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr&quot;&gt;&lt;br&gt;    &lt;/iframe&gt;
+
+&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&amp;t=cam51p-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4863541945&amp;linkId=7ccf8718bd5ba2655e306d1fc87fe62d&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr&quot;&gt;&lt;br&gt;    &lt;/iframe&gt;
+    
+    </summary>
+    
+      <category term="書籍のお仕事" scheme="https://github.com/llminatoll/categories/%E6%9B%B8%E7%B1%8D%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+      <category term="マンガでわかるGit" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGit/"/>
+    
+      <category term="「わかばちゃんと学ぶ」シリーズ" scheme="https://github.com/llminatoll/tags/%E3%80%8C%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"/>
+    
+      <category term="著書" scheme="https://github.com/llminatoll/tags/%E8%91%97%E6%9B%B8/"/>
+    
+      <category term="わかばちゃんと学ぶGit使い方入門" scheme="https://github.com/llminatoll/tags/%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80/"/>
     
   </entry>
   
