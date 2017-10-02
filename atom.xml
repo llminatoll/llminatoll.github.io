@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://github.com/llminatoll/"/>
-  <updated>2017-09-21T14:43:16.974Z</updated>
+  <updated>2017-10-02T06:47:54.534Z</updated>
   <id>https://github.com/llminatoll/</id>
   
   <author>
@@ -16,40 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PHPカンファレンス2017 サイン会</title>
-    <link href="https://github.com/llminatoll/2017/09/21/395.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/395.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <title>マンガでわかるGoogleアナリティクス PVセッションUUの違い</title>
+    <link href="https://github.com/llminatoll/2017/10/02/403.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/403.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png" alt="PHPcon.png (104.9 kB)"></p>
-<p>PHPカンファレンス2017のサイン会に、「わかばちゃんと学ぶ」シリーズの著者、湊川あいが参加します。</p>
-<p><a href="http://phpcon.php.gr.jp/2017/" target="_blank" rel="external">PHPカンファレンス2017 - #phpcon2017</a></p>
-<p><a href="https://phpcon.connpass.com/event/65943/" target="_blank" rel="external">connpassページ</a></p>
-<blockquote>
-<p>PHPカンファレンスは、国内最大のPHPイベントとして2000年より毎年秋に開催されています。 今年も10月8日（日）に大田区産業プラザ PiOにて開催いたします。</p>
-<p>国内の業界トップランナーによるPHP最新動向や、コアテクノロジーからPHP初心者向けセッションまで約40のセッションと約10のLT（ライトニングトーク）を展開します。これからPHPをはじめる方から、さらにPHPを極めてきたい方まで幅広く楽しめるイベントになるようプログラムをご用意します。<br>（connpassページより引用）</p>
-</blockquote>
-<p>たくさんのエンジニア・企業が集まり開催される大イベントです！<br>ぜひお越しください！</p>
+    <content type="html"><![CDATA[<p>Webサイト上で30分以上操作が行われなかった場合、<br>それ以降の操作は新しいセッションとしてカウントされるんだ</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png&quot; alt=&quot;PHPcon.pn
+      &lt;p&gt;Webサイト上で30分以上操作が行われなかった場合、&lt;br&gt;それ以降の操作は新しいセッションとしてカウントされるんだ&lt;/p&gt;
+
     
     </summary>
     
-      <category term="メディア掲載・インタビュー" scheme="https://github.com/llminatoll/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+      <category term="マンガのお仕事" scheme="https://github.com/llminatoll/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>「Git超入門」Schoo講師</title>
-    <link href="https://github.com/llminatoll/2017/09/21/379.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/379.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <link href="https://github.com/llminatoll/2017/10/02/379.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/379.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
 <p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
@@ -95,10 +88,10 @@
   
   <entry>
     <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
-    <link href="https://github.com/llminatoll/2017/09/21/387.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/387.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <link href="https://github.com/llminatoll/2017/10/02/387.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/387.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
 <p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
@@ -122,10 +115,10 @@
   
   <entry>
     <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
-    <link href="https://github.com/llminatoll/2017/09/21/388.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/388.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <link href="https://github.com/llminatoll/2017/10/02/388.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/388.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
     <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
 <h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
@@ -146,10 +139,10 @@
   
   <entry>
     <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
-    <link href="https://github.com/llminatoll/2017/09/21/389.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/389.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <link href="https://github.com/llminatoll/2017/10/02/389.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/389.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
     <content type="html"><![CDATA[<p><img alt="運用ちゃん.png (171.1 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png"></p>
 <p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
@@ -183,10 +176,10 @@
   
   <entry>
     <title>株式会社クリエイターズネクスト様 インタビュー</title>
-    <link href="https://github.com/llminatoll/2017/09/21/390.html/"/>
-    <id>https://github.com/llminatoll/2017/09/21/390.html/</id>
-    <published>2017-09-21T14:43:16.974Z</published>
-    <updated>2017-09-21T14:43:16.974Z</updated>
+    <link href="https://github.com/llminatoll/2017/10/02/390.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/390.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/8511" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/d4d4e7f7-e943-46da-8ab2-07be8aab1c4a.png" alt="kobitinterview.png (236.1 kB)"></a></p>
 <p>株式会社クリエイターズネクスト様の「KOBITブログ」にて、湊川あいのインタビューが掲載されました。</p>
@@ -205,40 +198,30 @@
   </entry>
   
   <entry>
-    <title>大阪丼イメージキャラクター</title>
-    <link href="https://github.com/llminatoll/2017/09/13/377.html/"/>
-    <id>https://github.com/llminatoll/2017/09/13/377.html/</id>
-    <published>2017-09-13T02:29:06.000Z</published>
-    <updated>2017-09-13T02:29:06.000Z</updated>
+    <title>PHPカンファレンス2017 サイン会</title>
+    <link href="https://github.com/llminatoll/2017/10/02/395.html/"/>
+    <id>https://github.com/llminatoll/2017/10/02/395.html/</id>
+    <published>2017-10-02T06:47:54.534Z</published>
+    <updated>2017-10-02T06:47:54.534Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png" alt="オオサカドン" width="200px"></p>
-<p>マストドンの大阪弁インスタンス、<a href="https://mstdn.osaka/about" target="_blank" rel="external">大阪丼：mstdn.osaka</a>に、イメージキャラクターのイラストを提供いたしました。</p>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/osakadon_osaka/status/870663345958928386" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a id="more"></a>
-<h2 id="mstdn-osaka-とは？"><a href="#mstdn-osaka-とは？" class="headerlink" title="mstdn.osaka とは？"></a>mstdn.osaka とは？</h2><blockquote>
-<p>大阪弁、関西弁推奨のマストドンインスタンスやねん。<br>大阪人でも関西人でも元大阪人でも、大阪に興味あるだけでもかまへんで。兄ちゃん姉ちゃんおっちゃんおばちゃん誰でも寄ったってな〜。<br>（mstdn.osaka公式サイトより）</p>
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png" alt="PHPcon.png (104.9 kB)"></p>
+<p>PHPカンファレンス2017のサイン会に、「わかばちゃんと学ぶ」シリーズの著者、湊川あいが参加します。</p>
+<p><a href="http://phpcon.php.gr.jp/2017/" target="_blank" rel="external">PHPカンファレンス2017 - #phpcon2017</a></p>
+<p><a href="https://phpcon.connpass.com/event/65943/" target="_blank" rel="external">connpassページ</a></p>
+<blockquote>
+<p>PHPカンファレンスは、国内最大のPHPイベントとして2000年より毎年秋に開催されています。 今年も10月8日（日）に大田区産業プラザ PiOにて開催いたします。</p>
+<p>国内の業界トップランナーによるPHP最新動向や、コアテクノロジーからPHP初心者向けセッションまで約40のセッションと約10のLT（ライトニングトーク）を展開します。これからPHPをはじめる方から、さらにPHPを極めてきたい方まで幅広く楽しめるイベントになるようプログラムをご用意します。<br>（connpassページより引用）</p>
 </blockquote>
-<ul>
-<li><a href="https://mstdn.osaka/osakadonvr/" target="_blank" rel="external">VR大阪丼</a></li>
-<li><a href="https://yamasakimasaki.com/mstdn/peeping/index.html" target="_blank" rel="external">Nozokimidon</a></li>
-<li><a href="https://mstdn.osaka/@osakadon" target="_blank" rel="external">オオサカドン</a></li>
-<li><a href="https://mstdn.osaka/wiki/" target="_blank" rel="external">大阪丼wiki</a></li>
-<li><a href="https://discord.gg/qhspsY6" target="_blank" rel="external">Discord(チャット)サーバ</a></li>
-</ul>
-<h2 id="管理人alarkyさんとGitHub上で打ち合わせ"><a href="#管理人alarkyさんとGitHub上で打ち合わせ" class="headerlink" title="管理人alarkyさんとGitHub上で打ち合わせ"></a>管理人alarkyさんとGitHub上で打ち合わせ</h2><p><a href="https://github.com/alarky/mastodon">https://github.com/alarky/mastodon</a><br>こちらのGitHubリポジトリ上でイメージキャラクターについて打ち合わせ・制作いたしました。<br>ソーシャルコーディングならぬソーシャルイラストレーティング、大変楽しい試みでした。</p>
-<h2 id="大阪丼が-ITmediaさんで紹介されました"><a href="#大阪丼が-ITmediaさんで紹介されました" class="headerlink" title="大阪丼が ITmediaさんで紹介されました"></a>大阪丼が ITmediaさんで紹介されました</h2><p><a href="http://www.itmedia.co.jp/news/articles/1705/18/news083.html" target="_blank" rel="external">マストドン初心者にオススメなのは？　気になるインスタンスまとめ</a></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+<p>たくさんのエンジニア・企業が集まり開催される大イベントです！<br>ぜひお越しください！</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png&quot; alt=&quot;オオサカドン&quot; width=&quot;200px&quot;&gt;&lt;/p&gt;
-&lt;p&gt;マストドンの大阪弁インスタンス、&lt;a href=&quot;https://mstdn.osaka/about&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大阪丼：mstdn.osaka&lt;/a&gt;に、イメージキャラクターのイラストを提供いたしました。&lt;/p&gt;
-&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/osakadon_osaka/status/870663345958928386&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png&quot; alt=&quot;PHPcon.pn
     
     </summary>
     
-      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+      <category term="メディア掲載・インタビュー" scheme="https://github.com/llminatoll/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
     
     
   </entry>
@@ -549,6 +532,45 @@
       <category term="「わかばちゃんと学ぶ」シリーズ" scheme="https://github.com/llminatoll/tags/%E3%80%8C%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6%E3%80%8D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/"/>
     
       <category term="マンガでわかるGoogleアナリティクス" scheme="https://github.com/llminatoll/tags/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8BGoogle%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大阪丼イメージキャラクター</title>
+    <link href="https://github.com/llminatoll/2017/09/13/377.html/"/>
+    <id>https://github.com/llminatoll/2017/09/13/377.html/</id>
+    <published>2017-09-13T02:29:06.000Z</published>
+    <updated>2017-09-13T02:29:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png" alt="オオサカドン" width="200px"></p>
+<p>マストドンの大阪弁インスタンス、<a href="https://mstdn.osaka/about" target="_blank" rel="external">大阪丼：mstdn.osaka</a>に、イメージキャラクターのイラストを提供いたしました。</p>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/osakadon_osaka/status/870663345958928386" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a id="more"></a>
+<h2 id="mstdn-osaka-とは？"><a href="#mstdn-osaka-とは？" class="headerlink" title="mstdn.osaka とは？"></a>mstdn.osaka とは？</h2><blockquote>
+<p>大阪弁、関西弁推奨のマストドンインスタンスやねん。<br>大阪人でも関西人でも元大阪人でも、大阪に興味あるだけでもかまへんで。兄ちゃん姉ちゃんおっちゃんおばちゃん誰でも寄ったってな〜。<br>（mstdn.osaka公式サイトより）</p>
+</blockquote>
+<ul>
+<li><a href="https://mstdn.osaka/osakadonvr/" target="_blank" rel="external">VR大阪丼</a></li>
+<li><a href="https://yamasakimasaki.com/mstdn/peeping/index.html" target="_blank" rel="external">Nozokimidon</a></li>
+<li><a href="https://mstdn.osaka/@osakadon" target="_blank" rel="external">オオサカドン</a></li>
+<li><a href="https://mstdn.osaka/wiki/" target="_blank" rel="external">大阪丼wiki</a></li>
+<li><a href="https://discord.gg/qhspsY6" target="_blank" rel="external">Discord(チャット)サーバ</a></li>
+</ul>
+<h2 id="管理人alarkyさんとGitHub上で打ち合わせ"><a href="#管理人alarkyさんとGitHub上で打ち合わせ" class="headerlink" title="管理人alarkyさんとGitHub上で打ち合わせ"></a>管理人alarkyさんとGitHub上で打ち合わせ</h2><p><a href="https://github.com/alarky/mastodon">https://github.com/alarky/mastodon</a><br>こちらのGitHubリポジトリ上でイメージキャラクターについて打ち合わせ・制作いたしました。<br>ソーシャルコーディングならぬソーシャルイラストレーティング、大変楽しい試みでした。</p>
+<h2 id="大阪丼が-ITmediaさんで紹介されました"><a href="#大阪丼が-ITmediaさんで紹介されました" class="headerlink" title="大阪丼が ITmediaさんで紹介されました"></a>大阪丼が ITmediaさんで紹介されました</h2><p><a href="http://www.itmedia.co.jp/news/articles/1705/18/news083.html" target="_blank" rel="external">マストドン初心者にオススメなのは？　気になるインスタンスまとめ</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/5b45d680-32c8-45a6-8c0b-afaa319f1109.png&quot; alt=&quot;オオサカドン&quot; width=&quot;200px&quot;&gt;&lt;/p&gt;
+&lt;p&gt;マストドンの大阪弁インスタンス、&lt;a href=&quot;https://mstdn.osaka/about&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大阪丼：mstdn.osaka&lt;/a&gt;に、イメージキャラクターのイラストを提供いたしました。&lt;/p&gt;
+&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/osakadon_osaka/status/870663345958928386&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+      <category term="イラストのお仕事" scheme="https://github.com/llminatoll/categories/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
     
   </entry>
   
