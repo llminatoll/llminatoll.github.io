@@ -24,8 +24,6 @@ script:
 - cd public
 - git add -A
 - git commit -m 'Update'
-- '[ "$TRAVIS_BRANCH" == "esa" ]'
-- '[ $GH_TOKEN ]'
 - 'git push --force https://$GH_TOKEN@github.com/llminatoll/llminatoll.github.io.git HEAD:master'
 env:
   global:
