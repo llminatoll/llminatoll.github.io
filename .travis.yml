@@ -10,7 +10,6 @@ branches:
   only:
   - esa
 before_install:
-- npm install -g hexo
 - npm install
 before_script:
 - git config --global user.name 'llminatoll via Travis CI'
@@ -21,12 +20,10 @@ before_script:
 - git ls-files | xargs -I {} rm -rf {}
 - popd
 script:
-- hexo generate
+- $(npm bin)/hexo generate
 - cd public
 - git add -A
 - git commit -m 'Update'
-- '[ "$TRAVIS_BRANCH" == "esa" ]'
-- '[ $GH_TOKEN ]'
 - 'git push --force https://$GH_TOKEN@github.com/llminatoll/llminatoll.github.io.git HEAD:master'
 env:
   global:
