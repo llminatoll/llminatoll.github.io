@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://llminatoll.github.io/"/>
-  <updated>2017-12-21T09:47:45.993Z</updated>
+  <updated>2018-02-03T08:23:08.380Z</updated>
   <id>https://llminatoll.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
     <link href="https://llminatoll.github.io/387.html/"/>
     <id>https://llminatoll.github.io/387.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
 <p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
@@ -43,11 +43,45 @@
   </entry>
   
   <entry>
+    <title>i:ENIGINEER様 インタビュー</title>
+    <link href="https://llminatoll.github.io/522.html/"/>
+    <id>https://llminatoll.github.io/522.html/</id>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
+    
+    <content type="html"><![CDATA[<p>テック系Webメディア  i:ENIGINEER様に、湊川あいインタビュー記事が掲載されました。</p>
+<p><a href="https://persol-tech-s.co.jp/i-engineer/product/llminatoll" target="_blank"><img width="1016" alt="persolテクノロジーブログ.png (841.4 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2018/02/03/7092/50c75d5c-1b83-4044-8a54-86506fd1db7b.png"></a></p>
+<p><a href="https://persol-tech-s.co.jp/i-engineer/product/llminatoll" target="_blank" rel="external">40点でもいいから、まず公開する。マンガでわかる技術書「わかばちゃんと学ぶ」シリーズが生まれるまで</a></p>
+<a id="more"></a>
+<p>以下、本文より一部抜粋</p>
+<blockquote>
+<p>Webサイト製作の基本を、漫画で初心者向けにわかりやすく解説する「わかばちゃんと学ぶWebサイト制作の基本」や、漫画と実践で学ぶGit（※）の入門書「わかばちゃんと学ぶ Git使い方入門」。</p>
+<p>これらの著者である湊川あいさんは、フリーランスのWebデザイナーであり、漫画家でもあり、さらに技術書の執筆者でもある異色のキャリアの持ち主です。</p>
+<p>かつては、社員としてWebデザイナーの仕事だけをしていた湊川さん。果たして、彼女はなぜ漫画でITを解説しようと考えたのでしょうか？</p>
+</blockquote>
+<p><a href="https://persol-tech-s.co.jp/i-engineer/product/llminatoll" target="_blank" rel="external">続きはこちらからお読みいただけます</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;テック系Webメディア  i:ENIGINEER様に、湊川あいインタビュー記事が掲載されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://persol-tech-s.co.jp/i-engineer/product/llminatoll&quot; target=&quot;_blank&quot;&gt;&lt;img width=&quot;1016&quot; alt=&quot;persolテクノロジーブログ.png (841.4 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2018/02/03/7092/50c75d5c-1b83-4044-8a54-86506fd1db7b.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://persol-tech-s.co.jp/i-engineer/product/llminatoll&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;40点でもいいから、まず公開する。マンガでわかる技術書「わかばちゃんと学ぶ」シリーズが生まれるまで&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>マンガでわかるScrapbox</title>
     <link href="https://llminatoll.github.io/495.html/"/>
     <id>https://llminatoll.github.io/495.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://gyazo.com/f17f725ecc3dc7466e6956ac47520ff2.png" alt="マンガでわかるScrapbox"></p>
 <p><a href="https://scrapbox.io/wakaba-manga/" target="_blank" rel="external">マンガでわかるScrapbox</a></p>
@@ -73,8 +107,8 @@
     <title>わかばちゃんと学ぶ Googleアナリティクス</title>
     <link href="https://llminatoll.github.io/417.html/"/>
     <id>https://llminatoll.github.io/417.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542321/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542321&linkCode=as2&tag=cam51p-22&linkId=3234fd1e0a54d47060bed14f54a14bef">わかばちゃんと学ぶ Googleアナリティクス</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=cam51p-22&l=am2&o=9&a=4863542321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"><br><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542321/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542321&linkCode=as2&tag=cam51p-22&linkId=3234fd1e0a54d47060bed14f54a14bef"><img alt="wakaba-book-ga.png (128.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/10/10/7092/ee6c0342-eb9f-4208-bb01-1cf3e18a6f0f.png"></a></p>
 <p></p>
@@ -113,8 +147,8 @@
     <title>わかばちゃんと学ぶ Webサイト制作の基本</title>
     <link href="https://llminatoll.github.io/416.html/"/>
     <id>https://llminatoll.github.io/416.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/dp/4863541945?tag=cam51p-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4863541945&adid=0XVFMD6JP8JT4NTBTR55&">わかばちゃんと学ぶ Webサイト制作の基本</a><br><a target="_blank" href="https://www.amazon.co.jp/dp/4863541945?tag=cam51p-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4863541945&adid=0XVFMD6JP8JT4NTBTR55&"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/10/7092/b28c12dc-5271-47b1-8223-5d2dbadff21b.png" alt="wakaba-book-html5css3.png (215.5 kB)"><br></a></p>
 <ul>
@@ -143,8 +177,8 @@
     <title>リクルートマーケティングパートナーズ様  まつもとゆきひろ氏講演イベントレポート</title>
     <link href="https://llminatoll.github.io/403.html/"/>
     <id>https://llminatoll.github.io/403.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://tech.recruit-mp.co.jp/event/post-12898/" target="_blank" rel="external">Rubyはどのように生まれ、世界へ羽ばたいていったのか？まつもとゆきひろさん講演会の全貌をレポート</a></p>
 <p>株式会社リクルートマーケティングパートナーズ様より、記事執筆依頼をいただき、取材・文章・イラスト・記事投稿後の拡散のお仕事をしました。</p>
@@ -167,8 +201,8 @@
     <title>PHPカンファレンス2017 サイン会</title>
     <link href="https://llminatoll.github.io/395.html/"/>
     <id>https://llminatoll.github.io/395.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png" alt="PHPcon.png (104.9 kB)"></p>
 <p>PHPカンファレンス2017のサイン会に、「わかばちゃんと学ぶ」シリーズの著者、湊川あいが参加いたしました。</p>
@@ -203,8 +237,8 @@
     <title>株式会社クリエイターズネクスト様 インタビュー</title>
     <link href="https://llminatoll.github.io/390.html/"/>
     <id>https://llminatoll.github.io/390.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/8511" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/d4d4e7f7-e943-46da-8ab2-07be8aab1c4a.png" alt="kobitinterview.png (236.1 kB)"></a></p>
 <p>株式会社クリエイターズネクスト様の「KOBITブログ」にて、湊川あいのインタビューが掲載されました。</p>
@@ -223,48 +257,11 @@
   </entry>
   
   <entry>
-    <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
-    <link href="https://llminatoll.github.io/389.html/"/>
-    <id>https://llminatoll.github.io/389.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
-    
-    <content type="html"><![CDATA[<p><img alt="運用ちゃん.png (171.1 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png"></p>
-<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
-<p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
-<a id="more"></a>
-<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>普段あまり目立たず、地味なイメージのシステム運用の人たち。<br>いったいどんなコトしているんだろう？<br> 運用のお仕事の苦労や醍醐味って？<br>価値ある運用者になるためには？<br>妖精「運用☆ちゃん」が、システム運用担当者 海野 遥子（うんの ようこ）と体当たりでお伝えします。</p>
-<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
-<ul>
-<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
-<li>監修：DQNEO</li>
-</ul>
-<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
-<p>全国の書店・Amazonにて発売中です。</p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img alt=&quot;運用ちゃん.png (171.1 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜&lt;/a&gt;のWeb連載がスタートしました。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお読みいただけます。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="マンガのお仕事" scheme="https://llminatoll.github.io/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>「Git超入門」Schoo講師</title>
     <link href="https://llminatoll.github.io/379.html/"/>
     <id>https://llminatoll.github.io/379.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
 <p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
@@ -309,11 +306,48 @@
   </entry>
   
   <entry>
+    <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
+    <link href="https://llminatoll.github.io/389.html/"/>
+    <id>https://llminatoll.github.io/389.html/</id>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
+    
+    <content type="html"><![CDATA[<p><img alt="運用ちゃん.png (171.1 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png"></p>
+<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
+<p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
+<a id="more"></a>
+<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>普段あまり目立たず、地味なイメージのシステム運用の人たち。<br>いったいどんなコトしているんだろう？<br> 運用のお仕事の苦労や醍醐味って？<br>価値ある運用者になるためには？<br>妖精「運用☆ちゃん」が、システム運用担当者 海野 遥子（うんの ようこ）と体当たりでお伝えします。</p>
+<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<ul>
+<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
+<li>監修：DQNEO</li>
+</ul>
+<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
+<p>全国の書店・Amazonにて発売中です。</p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img alt=&quot;運用ちゃん.png (171.1 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜&lt;/a&gt;のWeb連載がスタートしました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお読みいただけます。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="マンガのお仕事" scheme="https://llminatoll.github.io/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
     <link href="https://llminatoll.github.io/388.html/"/>
     <id>https://llminatoll.github.io/388.html/</id>
-    <published>2017-12-21T09:47:45.993Z</published>
-    <updated>2017-12-21T09:47:45.993Z</updated>
+    <published>2018-02-03T08:23:08.380Z</published>
+    <updated>2018-02-03T08:23:08.380Z</updated>
     
     <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
 <h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
