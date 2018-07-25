@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://llminatoll.github.io/"/>
-  <updated>2018-05-24T06:36:57.506Z</updated>
+  <updated>2018-07-25T01:27:14.642Z</updated>
   <id>https://llminatoll.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>わかばちゃんと学ぶ Webサイト制作の基本</title>
     <link href="https://llminatoll.github.io/416.html/"/>
     <id>https://llminatoll.github.io/416.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/dp/4863541945?tag=cam51p-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4863541945&adid=0XVFMD6JP8JT4NTBTR55&">わかばちゃんと学ぶ Webサイト制作の基本</a><br><a target="_blank" href="https://www.amazon.co.jp/dp/4863541945?tag=cam51p-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4863541945&adid=0XVFMD6JP8JT4NTBTR55&"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/10/7092/b28c12dc-5271-47b1-8223-5d2dbadff21b.png" alt="wakaba-book-html5css3.png (215.5 kB)"><br></a></p>
 <ul>
@@ -46,11 +46,52 @@
   </entry>
   
   <entry>
+    <title>CSS Nite in Yokohama, vol.2 フォローアップ</title>
+    <link href="https://llminatoll.github.io/645.html/"/>
+    <id>https://llminatoll.github.io/645.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p>CSS Nite in Yokohama, vol.2  湊川あい フォローアップ</p>
+<h2 id="スライド"><a href="#スライド" class="headerlink" title="スライド"></a>スライド</h2><p><a href="https://www.dropbox.com/s/h5tpgaa7pvrod51/%E3%80%90%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E7%94%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%80%91%E6%B9%8A%E5%B7%9D%E3%81%82%E3%81%84_Google%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%2BSNS%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E3%80%81%E8%AA%AD%E3%81%BE%E3%82%8C%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.pdf?dl=0" target="_blank" rel="external">こちら（PDF）</a></p>
+<h2 id="アンケートにご記入いただいたご質問への返答"><a href="#アンケートにご記入いただいたご質問への返答" class="headerlink" title="アンケートにご記入いただいたご質問への返答"></a>アンケートにご記入いただいたご質問への返答</h2><ul>
+<li><p>Q.「フォロワーの増やし方も知りたいです」</p>
+<ul>
+<li>A. まずはツイッターやnoteのプロフィールに何をやっている人かわかる肩書きをつけました。<ul>
+<li>私の場合、初期はツイッターフォロワー200人、noteフォロワー0人でしたが「絵を描くWebデザイナー。マンガでわかるWebデザイン連載中」と書きました。</li>
+<li>肩書きをつけたら、それに合わせたコンテンツを配信していくと、自然とそのコンテンツを求める人たちがフォローしてくれるようになりました。</li>
+<li>無名の頃から出版の声がかかるまでの6ヶ月、具体的に何をやったかは、こちらの記事にまとめています。 <a href="https://respective-colours.net/illustration/481" target="_blank" rel="external">https://respective-colours.net/illustration/481</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Q.「3年前からマンガを描き始めたとのことですが、上達のコツはありますか？</p>
+<ul>
+<li>A. 好きだなと思う絵柄のマンガを真似して落書きしたり、人体デッサンの本を買って模写したりしていました。</li>
+<li>30秒ドローイング（30秒経過すると、画像が次の人物のポーズに切り替わる）でクロッキーを描くのもゲーム感覚でできておすすめです。 <a href="https://get.adobe.com/jp/flashplayer/" target="_blank" rel="external">https://get.adobe.com/jp/flashplayer/</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;CSS Nite in Yokohama, vol.2  湊川あい フォローアップ&lt;/p&gt;
+&lt;h2 id=&quot;スライド&quot;&gt;&lt;a href=&quot;#スライド&quot; class=&quot;headerlink&quot; title=&quot;スライド&quot;&gt;&lt;/a&gt;スライド&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http
+    
+    </summary>
+    
+      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>サポーターズCoLab勉強会「レポート作成時間をゼロにする！ハンズオンで学ぶGoogleDataStudio」登壇</title>
     <link href="https://llminatoll.github.io/615.html/"/>
     <id>https://llminatoll.github.io/615.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2018/05/24/7092/4689813a-2091-4977-b638-7188c028d00a.png" alt="52BBBA57-50F1-4792-9B5D-FFDD9ADF7AE2.png (338.9 kB)"></p>
 <p>株式会社サポーターズ様よりお声がけいただき、「レポート作成時間をゼロにする！ハンズオンで学ぶGoogleDataStudio」というテーマで登壇いたします。</p>
@@ -74,8 +115,8 @@
     <title>CSS Nite in Yokohama, vol.2 登壇</title>
     <link href="https://llminatoll.github.io/610.html/"/>
     <id>https://llminatoll.github.io/610.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://cssnite.jp/yokohama/vol02/" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2018/05/18/7092/e9da6eee-36cd-48a9-b106-5c0b80879e2b.png" alt="CSSNiteYokohama2-logo_pc.png (12.3 kB)"></a><br><a href="http://cssnite.jp/yokohama/vol02/" target="_blank" rel="external">CSS Nite in Yokohama, vol.2</a>に湊川あいが登壇いたします。</p>
 <h2 id="CSS-Nite-とは"><a href="#CSS-Nite-とは" class="headerlink" title="CSS Nite とは"></a>CSS Nite とは</h2><p>CSS Nite（シーエスエス・ナイト）は、当初はCSSをはじめとしたウェブ標準にまつわるテーマで中心としたウェブデザイナーを対象としたイベントであったが、現在ではウェブデザインやウェブマーケティングに関するテーマを総合的に扱う業界最大規模のイベントとなっている。 主催は株式会社スイッチ。</p>
@@ -101,8 +142,8 @@
     <title>オープンセミナー岡山2018 登壇</title>
     <link href="https://llminatoll.github.io/609.html/"/>
     <id>https://llminatoll.github.io/609.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2018/05/24/7092/5eee3ab0-3637-414c-9a60-68691b9e59cc.jpeg" alt="2700E27A-92E9-4FFB-BD5F-734BCA4AEE3D.jpeg (179.8 kB)"><br>湊川あいがオープンセミナー2018@岡山に登壇いたしました。</p>
 <ul>
@@ -134,8 +175,8 @@
     <title>日経Linux 寄稿 2018年5月号</title>
     <link href="https://llminatoll.github.io/608.html/"/>
     <id>https://llminatoll.github.io/608.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.amazon.co.jp/dp/B07B64Z7GH/" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2018/05/15/7092/a3b060e5-4e0b-4240-ad92-7efc8ee884e9.png" alt="picture_pc_abdf54699741016d42f51d2879d87c4a.png (253.9 kB)"></a></p>
 <p>日経Linux 2018年5月号に、湊川あいが7ページほど寄稿させていただきました。<br>私の担当箇所はGitHubの章。フルカラーです。<br>図解イラストもいっぱい描きました。<br>ぜひ書店様・<a href="https://www.amazon.co.jp/dp/B07B64Z7GH/" target="_blank" rel="external">Amazon様</a>でご覧ください。</p>
@@ -158,8 +199,8 @@
     <title>ITエンジニアのためのレジュメの書き方</title>
     <link href="https://llminatoll.github.io/587.html/"/>
     <id>https://llminatoll.github.io/587.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p>[ <img src="https://img.esa.io/uploads/production/attachments/3412/2018/04/20/7092/fdf8e232-8a34-4508-a22f-44bdcbdd1866.jpg" alt="ITエンジニアのためのレジュメの書き方"> ] (<a href="https://codeiq.jp/magazine/2018/04/58594/" target="_blank" rel="external">https://codeiq.jp/magazine/2018/04/58594/</a>)</p>
 <p>リクルートキャリア様の年収提示サービス「moffers」PR記事として、湊川あいが取材・執筆・マンガを担当させていただきました！<br>キャリアアドバイザーのアキコさんに、ITエンジニアのためのレジュメ（応募文書）の書き方を根掘り葉掘り聞いてきました。</p>
@@ -189,8 +230,8 @@
     <title>マンガでわかるScrapbox冊子制作</title>
     <link href="https://llminatoll.github.io/585.html/"/>
     <id>https://llminatoll.github.io/585.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2018/04/11/7092/0fe79abf-b3b7-4998-8572-ecadca122042.png" alt="マンガでわかるScrapbox冊子"></p>
 <p><a href="https://www.notainc.com/ja" target="_blank" rel="external">Nota.Inc様</a>よりご依頼いただき、<a href="https://scrapbox.io/wakaba-manga/" target="_blank" rel="external">マンガでわかるScrapbox</a>を32ページにまとめた冊子を制作しました。</p>
@@ -213,11 +254,231 @@
   </entry>
   
   <entry>
+    <title>「Git超入門」Schoo講師</title>
+    <link href="https://llminatoll.github.io/379.html/"/>
+    <id>https://llminatoll.github.io/379.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
+<p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
+<h2 id="全6回"><a href="#全6回" class="headerlink" title="全6回"></a>全6回</h2><ul>
+<li>⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう</li>
+<li>⑵ファイルの変更を記録しよう</li>
+<li>⑶並行世界を作ろう</li>
+<li>⑷GitHubを使ってみよう</li>
+<li>⑸プルリクエストしてみよう</li>
+<li>⑹総復習 + まだまだある、便利な機能</li>
+</ul>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885767407150571524" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a id="more"></a>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885456519860441089" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885458514520309760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885794729446612992" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885882918458900480" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/889344593447182336" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/893799937355300864" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg&quot; alt=&quot;4228.jpg (46.5 kB)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;動画学習サービスSchoo（スクー）にて、&lt;a href=&quot;https://schoo.jp/class/4228&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;わかばちゃんと動画で学ぶ Git超入門&lt;/a&gt;の講師を担当しています。&lt;br&gt;授業はWeb上でご覧いただけます。&lt;/p&gt;
+&lt;h2 id=&quot;全6回&quot;&gt;&lt;a href=&quot;#全6回&quot; class=&quot;headerlink&quot; title=&quot;全6回&quot;&gt;&lt;/a&gt;全6回&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう&lt;/li&gt;
+&lt;li&gt;⑵ファイルの変更を記録しよう&lt;/li&gt;
+&lt;li&gt;⑶並行世界を作ろう&lt;/li&gt;
+&lt;li&gt;⑷GitHubを使ってみよう&lt;/li&gt;
+&lt;li&gt;⑸プルリクエストしてみよう&lt;/li&gt;
+&lt;li&gt;⑹総復習 + まだまだある、便利な機能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/llminatoll/status/885767407150571524&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    
+    </summary>
+    
+      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
+    <link href="https://llminatoll.github.io/387.html/"/>
+    <id>https://llminatoll.github.io/387.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
+<p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
+<h4 id="日時"><a href="#日時" class="headerlink" title="日時"></a>日時</h4><p>2017/09/16 (土) 13:00 〜 </p>
+<h4 id="定員"><a href="#定員" class="headerlink" title="定員"></a>定員</h4><p>350人</p>
+<h4 id="会場"><a href="#会場" class="headerlink" title="会場"></a>会場</h4><p>グラントウキョウサウスタワー 41F（東京都千代田区丸の内1-9-2）</p>
+<h4 id="イベント詳細URL"><a href="#イベント詳細URL" class="headerlink" title="イベント詳細URL"></a>イベント詳細URL</h4><p> <a href="https://codeiq.jp/magazine/2017/09/53677/" target="_blank" rel="external">https://codeiq.jp/magazine/2017/09/53677/</a></p>
+<h4 id="主催グループ"><a href="#主催グループ" class="headerlink" title="主催グループ"></a>主催グループ</h4><p>リクルートキャリア CodeIQさま</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg&quot; alt=&quot;codeiq39-
+    
+    </summary>
+    
+      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
+    <link href="https://llminatoll.github.io/388.html/"/>
+    <id>https://llminatoll.github.io/388.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
+<h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
+<h2 id="後編"><a href="#後編" class="headerlink" title="後編"></a>後編</h2><h3 id="sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話"><a href="#sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話" class="headerlink" title="sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話"></a><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external">sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話</a></h3><p><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiB.png (57.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c90b5ad3-4dce-4926-87ef-068999491e8a.png"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Tech系Podcast &lt;a href=&quot;https://shiganai.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;しがないラジオ&lt;/a&gt; に、湊川あいがゲスト出演いたしました。&lt;/p&gt;
+&lt;h2 id=&quot;前編&quot;&gt;&lt;a href=&quot;#前編&quot;
+    
+    </summary>
+    
+      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
+    <link href="https://llminatoll.github.io/389.html/"/>
+    <id>https://llminatoll.github.io/389.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><img alt="運用ちゃん.png (171.1 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png"></p>
+<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
+<p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
+<a id="more"></a>
+<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>普段あまり目立たず、地味なイメージのシステム運用の人たち。<br>いったいどんなコトしているんだろう？<br> 運用のお仕事の苦労や醍醐味って？<br>価値ある運用者になるためには？<br>妖精「運用☆ちゃん」が、システム運用担当者 海野 遥子（うんの ようこ）と体当たりでお伝えします。</p>
+<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
+<ul>
+<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
+<li>監修：DQNEO</li>
+</ul>
+<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
+<p>全国の書店・Amazonにて発売中です。</p>
+<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
+<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img alt=&quot;運用ちゃん.png (171.1 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜&lt;/a&gt;のWeb連載がスタートしました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお読みいただけます。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="マンガのお仕事" scheme="https://llminatoll.github.io/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>株式会社クリエイターズネクスト様 インタビュー</title>
+    <link href="https://llminatoll.github.io/390.html/"/>
+    <id>https://llminatoll.github.io/390.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/8511" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/d4d4e7f7-e943-46da-8ab2-07be8aab1c4a.png" alt="kobitinterview.png (236.1 kB)"></a></p>
+<p>株式会社クリエイターズネクスト様の「KOBITブログ」にて、湊川あいのインタビューが掲載されました。</p>
+<h4 id="インタビュー記事はこちらから"><a href="#インタビュー記事はこちらから" class="headerlink" title="インタビュー記事はこちらから"></a>インタビュー記事はこちらから</h4><p><a href="https://kobit.in/archives/8511" target="_blank" rel="external">“マンガでわかるWebデザイン”の湊川あいが語る、マーケティングとKOBITの魅力とは</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://kobit.in/archives/8511&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/
+    
+    </summary>
+    
+      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHPカンファレンス2017 サイン会</title>
+    <link href="https://llminatoll.github.io/395.html/"/>
+    <id>https://llminatoll.github.io/395.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png" alt="PHPcon.png (104.9 kB)"></p>
+<p>PHPカンファレンス2017のサイン会に、「わかばちゃんと学ぶ」シリーズの著者、湊川あいが参加いたしました。</p>
+<p><a href="http://phpcon.php.gr.jp/2017/" target="_blank" rel="external">PHPカンファレンス2017 - #phpcon2017</a></p>
+<p><a href="https://phpcon.connpass.com/event/65943/" target="_blank" rel="external">connpassページ</a></p>
+<blockquote>
+<p>PHPカンファレンスは、国内最大のPHPイベントとして2000年より毎年秋に開催されています。 今年も10月8日（日）に大田区産業プラザ PiOにて開催いたします。</p>
+<p>国内の業界トップランナーによるPHP最新動向や、コアテクノロジーからPHP初心者向けセッションまで約40のセッションと約10のLT（ライトニングトーク）を展開します。これからPHPをはじめる方から、さらにPHPを極めてきたい方まで幅広く楽しめるイベントになるようプログラムをご用意します。<br>（connpassページより引用）</p>
+</blockquote>
+<h2 id="サイン会・書籍ブースの模様"><a href="#サイン会・書籍ブースの模様" class="headerlink" title="サイン会・書籍ブースの模様"></a>サイン会・書籍ブースの模様</h2><p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/09/7092/3e49aef3-5363-4500-a85e-383e951cc423.jpg" alt="wakaba-bookss.jpg (221.9 kB)"><br>ジュンク堂池袋本店さまによる出張ブース</p>
+<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/09/7092/d8a30a86-2b32-4b2c-a623-570f6c60c90b.jpg" alt="wakaba-shikisi.jpg (110.4 kB)"><br>色紙も描きました</p>
+<hr>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/912978470627504129" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/uessy_akr/status/916830328978677760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/916911067288158208" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<hr>
+<p>サイン会にお越しいただきました皆様、ならびにPHPカンファレンス2017のスタッフの皆様、誠にありがとうございました！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png&quot; alt=&quot;PHPcon.pn
+    
+    </summary>
+    
+      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>リクルートマーケティングパートナーズ様  まつもとゆきひろ氏講演イベントレポート</title>
+    <link href="https://llminatoll.github.io/403.html/"/>
+    <id>https://llminatoll.github.io/403.html/</id>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://tech.recruit-mp.co.jp/event/post-12898/" target="_blank" rel="external">Rubyはどのように生まれ、世界へ羽ばたいていったのか？まつもとゆきひろさん講演会の全貌をレポート</a></p>
+<p>株式会社リクルートマーケティングパートナーズ様より、記事執筆依頼をいただき、取材・文章・イラスト・記事投稿後の拡散のお仕事をしました。</p>
+<p><a href="https://tech.recruit-mp.co.jp/event/post-12898/" target="_blank" rel="external">記事はこちらよりご覧いただけます</a></p>
+<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/914663473119846401" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://tech.recruit-mp.co.jp/event/post-12898/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Rubyはどのように生まれ、世界へ羽ばたいていったのか？まつもとゆきひろさん講演会の全貌をレポー
+    
+    </summary>
+    
+      <category term="取材・ライティングのお仕事" scheme="https://llminatoll.github.io/categories/%E5%8F%96%E6%9D%90%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>サポーターズCoLab勉強会「マンガでわかるGoogleアナリティクス+タグマネージャ」登壇</title>
     <link href="https://llminatoll.github.io/582.html/"/>
     <id>https://llminatoll.github.io/582.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img width="673" alt="マンガでわかるGoogleアナリティクス_タグマネージャ_-_サポーターズCoLab.png (834.8 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2018/04/03/7092/3e8daf44-b65f-4666-99b3-3169e9f32edf.png"></p>
 <p>株式会社サポーターズ様よりお声がけいただき、「マンガでわかるGoogleアナリティクス + タグマネージャ」というテーマで登壇いたします。</p>
@@ -272,261 +533,11 @@
   </entry>
   
   <entry>
-    <title>「Git超入門」Schoo講師</title>
-    <link href="https://llminatoll.github.io/379.html/"/>
-    <id>https://llminatoll.github.io/379.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg" alt="4228.jpg (46.5 kB)"></p>
-<p>動画学習サービスSchoo（スクー）にて、<a href="https://schoo.jp/class/4228" target="_blank" rel="external">わかばちゃんと動画で学ぶ Git超入門</a>の講師を担当しています。<br>授業はWeb上でご覧いただけます。</p>
-<h2 id="全6回"><a href="#全6回" class="headerlink" title="全6回"></a>全6回</h2><ul>
-<li>⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう</li>
-<li>⑵ファイルの変更を記録しよう</li>
-<li>⑶並行世界を作ろう</li>
-<li>⑷GitHubを使ってみよう</li>
-<li>⑸プルリクエストしてみよう</li>
-<li>⑹総復習 + まだまだある、便利な機能</li>
-</ul>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885767407150571524" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a id="more"></a>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885456519860441089" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885458514520309760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885794729446612992" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/885882918458900480" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/889344593447182336" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/893799937355300864" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/02/7092/89243b0a-b63e-4798-8140-214981b10301.jpg&quot; alt=&quot;4228.jpg (46.5 kB)&quot;&gt;&lt;/p&gt;
-&lt;p&gt;動画学習サービスSchoo（スクー）にて、&lt;a href=&quot;https://schoo.jp/class/4228&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;わかばちゃんと動画で学ぶ Git超入門&lt;/a&gt;の講師を担当しています。&lt;br&gt;授業はWeb上でご覧いただけます。&lt;/p&gt;
-&lt;h2 id=&quot;全6回&quot;&gt;&lt;a href=&quot;#全6回&quot; class=&quot;headerlink&quot; title=&quot;全6回&quot;&gt;&lt;/a&gt;全6回&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;⑴Gitってなあに？＋あなたのパソコンでGitを使えるようにしよう&lt;/li&gt;
-&lt;li&gt;⑵ファイルの変更を記録しよう&lt;/li&gt;
-&lt;li&gt;⑶並行世界を作ろう&lt;/li&gt;
-&lt;li&gt;⑷GitHubを使ってみよう&lt;/li&gt;
-&lt;li&gt;⑸プルリクエストしてみよう&lt;/li&gt;
-&lt;li&gt;⑹総復習 + まだまだある、便利な機能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a href=&quot;https://twitter.com/llminatoll/status/885767407150571524&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async defer src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    
-    </summary>
-    
-      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>「学びの秋！エンジニア最先端に触れて学ぶITフェス」登壇</title>
-    <link href="https://llminatoll.github.io/387.html/"/>
-    <id>https://llminatoll.github.io/387.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg" alt="codeiq39-201709.jpg (36.6 kB)"></p>
-<p>CodeIQ MAGAZINEにて<a href="https://codeiq.jp/magazine/category/git-ai/" target="_blank" rel="external">マンガでわかるGit</a>・<a href="https://codeiq.jp/magazine/category/wakaba_office_2/" target="_blank" rel="external">わかばちゃんが行くオフィス訪問マンガ</a>を連載中の湊川あいが、<a href="https://atnd.org/events/89912" target="_blank" rel="external">学びの秋！エンジニア最先端に触れて学ぶITフェス</a> に登壇いたします。</p>
-<h4 id="日時"><a href="#日時" class="headerlink" title="日時"></a>日時</h4><p>2017/09/16 (土) 13:00 〜 </p>
-<h4 id="定員"><a href="#定員" class="headerlink" title="定員"></a>定員</h4><p>350人</p>
-<h4 id="会場"><a href="#会場" class="headerlink" title="会場"></a>会場</h4><p>グラントウキョウサウスタワー 41F（東京都千代田区丸の内1-9-2）</p>
-<h4 id="イベント詳細URL"><a href="#イベント詳細URL" class="headerlink" title="イベント詳細URL"></a>イベント詳細URL</h4><p> <a href="https://codeiq.jp/magazine/2017/09/53677/" target="_blank" rel="external">https://codeiq.jp/magazine/2017/09/53677/</a></p>
-<h4 id="主催グループ"><a href="#主催グループ" class="headerlink" title="主催グループ"></a>主催グループ</h4><p>リクルートキャリア CodeIQさま</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c04a0e30-fb62-4b74-b8d3-b8c972d74fb1.jpg&quot; alt=&quot;codeiq39-
-    
-    </summary>
-    
-      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Tech系Podcast「しがないラジオ」ゲスト出演</title>
-    <link href="https://llminatoll.github.io/388.html/"/>
-    <id>https://llminatoll.github.io/388.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p>Tech系Podcast <a href="https://shiganai.org/" target="_blank" rel="external">しがないラジオ</a> に、湊川あいがゲスト出演いたしました。</p>
-<h2 id="前編"><a href="#前編" class="headerlink" title="前編"></a>前編</h2><h3 id="sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話"><a href="#sp-7a【ゲスト-llminatoll】楽しい！スキルの組み合わせで仕事を作る話" class="headerlink" title="sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話"></a><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external">sp.7a【ゲスト: llminatoll】楽しい！スキルの組み合わせで仕事を作る話</a></h3><p><a href="https://shiganai.org/ep/sp7a-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiA_001.png (73.5 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/789298de-742a-4756-a784-b213364f6ad2.png"></a></p>
-<h2 id="後編"><a href="#後編" class="headerlink" title="後編"></a>後編</h2><h3 id="sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話"><a href="#sp-7b【ゲスト-llminatoll】楽しい！！みんなの学習コストを下げる話" class="headerlink" title="sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話"></a><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external">sp.7b【ゲスト: llminatoll】楽しい！！みんなの学習コストを下げる話</a></h3><p><a href="https://shiganai.org/ep/sp7b-llminatoll" target="_blank" rel="external"><img alt="mww07_shiganaiB.png (57.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/14/7092/c90b5ad3-4dce-4926-87ef-068999491e8a.png"></a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Tech系Podcast &lt;a href=&quot;https://shiganai.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;しがないラジオ&lt;/a&gt; に、湊川あいがゲスト出演いたしました。&lt;/p&gt;
-&lt;h2 id=&quot;前編&quot;&gt;&lt;a href=&quot;#前編&quot;
-    
-    </summary>
-    
-      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</title>
-    <link href="https://llminatoll.github.io/389.html/"/>
-    <id>https://llminatoll.github.io/389.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><img alt="運用ちゃん.png (171.1 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png"></p>
-<p>リクルートキャリア様「CodeIQ MAGAZINE」にて、<a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜</a>のWeb連載がスタートしました。</p>
-<p><a href="https://codeiq.jp/magazine/category/investment/" target="_blank" rel="external">こちら</a>からお読みいただけます。</p>
-<a id="more"></a>
-<h3 id="あらすじ"><a href="#あらすじ" class="headerlink" title="あらすじ"></a>あらすじ</h3><p>普段あまり目立たず、地味なイメージのシステム運用の人たち。<br>いったいどんなコトしているんだろう？<br> 運用のお仕事の苦労や醍醐味って？<br>価値ある運用者になるためには？<br>妖精「運用☆ちゃん」が、システム運用担当者 海野 遥子（うんの ようこ）と体当たりでお伝えします。</p>
-<h3 id="前作の「マンガでわかるGit」が書籍化しました！"><a href="#前作の「マンガでわかるGit」が書籍化しました！" class="headerlink" title="前作の「マンガでわかるGit」が書籍化しました！"></a>前作の「マンガでわかるGit」が書籍化しました！</h3><p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/07/06/7092/4225430e-938b-4f6c-86e3-0b8c2f6b8ccf.png"></a></p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">わかばちゃんと学ぶGit使い方入門 （出版社：シーアンドアール研究所）</a></p>
-<ul>
-<li>著者：湊川あい（イラスト・マンガ・解説文・コーディング）</li>
-<li>監修：DQNEO</li>
-</ul>
-<p>新入社員さん・インターンシップの方への教育用や、今まで別のバージョン管理システムを使っていて移行したいエンジニアの方にご好評いただいております。</p>
-<p>全国の書店・Amazonにて発売中です。</p>
-<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542178/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542178&linkCode=as2&tag=cam51p-22&linkId=7ce9e777aff97d46dcec9f6aedf3429d">序盤を試し読みする</a></p>
-<h2 id="この記事はesa-io-Hexo-TravisCIで書かれました"><a href="#この記事はesa-io-Hexo-TravisCIで書かれました" class="headerlink" title="この記事はesa.io + Hexo + TravisCIで書かれました"></a>この記事はesa.io + Hexo + TravisCIで書かれました</h2><p>We❤️  <a href="https://esa.io/" target="_blank" rel="external">esa.io</a>“(\( ⁰⊖⁰)/)”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img alt=&quot;運用ちゃん.png (171.1 kB)&quot; src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/fa6cacb7-d928-4d8f-aada-6ee3e1507b3c.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;リクルートキャリア様「CodeIQ MAGAZINE」にて、&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;運用☆ちゃん 〜マンガでわかるシステム運用のお仕事〜&lt;/a&gt;のWeb連載がスタートしました。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeiq.jp/magazine/category/investment/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお読みいただけます。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="マンガのお仕事" scheme="https://llminatoll.github.io/categories/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>株式会社クリエイターズネクスト様 インタビュー</title>
-    <link href="https://llminatoll.github.io/390.html/"/>
-    <id>https://llminatoll.github.io/390.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://kobit.in/archives/8511" target="_blank" rel="external"><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/17/7092/d4d4e7f7-e943-46da-8ab2-07be8aab1c4a.png" alt="kobitinterview.png (236.1 kB)"></a></p>
-<p>株式会社クリエイターズネクスト様の「KOBITブログ」にて、湊川あいのインタビューが掲載されました。</p>
-<h4 id="インタビュー記事はこちらから"><a href="#インタビュー記事はこちらから" class="headerlink" title="インタビュー記事はこちらから"></a>インタビュー記事はこちらから</h4><p><a href="https://kobit.in/archives/8511" target="_blank" rel="external">“マンガでわかるWebデザイン”の湊川あいが語る、マーケティングとKOBITの魅力とは</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://kobit.in/archives/8511&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/
-    
-    </summary>
-    
-      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>PHPカンファレンス2017 サイン会</title>
-    <link href="https://llminatoll.github.io/395.html/"/>
-    <id>https://llminatoll.github.io/395.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png" alt="PHPcon.png (104.9 kB)"></p>
-<p>PHPカンファレンス2017のサイン会に、「わかばちゃんと学ぶ」シリーズの著者、湊川あいが参加いたしました。</p>
-<p><a href="http://phpcon.php.gr.jp/2017/" target="_blank" rel="external">PHPカンファレンス2017 - #phpcon2017</a></p>
-<p><a href="https://phpcon.connpass.com/event/65943/" target="_blank" rel="external">connpassページ</a></p>
-<blockquote>
-<p>PHPカンファレンスは、国内最大のPHPイベントとして2000年より毎年秋に開催されています。 今年も10月8日（日）に大田区産業プラザ PiOにて開催いたします。</p>
-<p>国内の業界トップランナーによるPHP最新動向や、コアテクノロジーからPHP初心者向けセッションまで約40のセッションと約10のLT（ライトニングトーク）を展開します。これからPHPをはじめる方から、さらにPHPを極めてきたい方まで幅広く楽しめるイベントになるようプログラムをご用意します。<br>（connpassページより引用）</p>
-</blockquote>
-<h2 id="サイン会・書籍ブースの模様"><a href="#サイン会・書籍ブースの模様" class="headerlink" title="サイン会・書籍ブースの模様"></a>サイン会・書籍ブースの模様</h2><p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/09/7092/3e49aef3-5363-4500-a85e-383e951cc423.jpg" alt="wakaba-bookss.jpg (221.9 kB)"><br>ジュンク堂池袋本店さまによる出張ブース</p>
-<p><img src="https://img.esa.io/uploads/production/attachments/3412/2017/10/09/7092/d8a30a86-2b32-4b2c-a623-570f6c60c90b.jpg" alt="wakaba-shikisi.jpg (110.4 kB)"><br>色紙も描きました</p>
-<hr>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/912978470627504129" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/uessy_akr/status/916830328978677760" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/916911067288158208" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<hr>
-<p>サイン会にお越しいただきました皆様、ならびにPHPカンファレンス2017のスタッフの皆様、誠にありがとうございました！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img.esa.io/uploads/production/attachments/3412/2017/09/21/7092/76b3e945-700e-4df0-b3a2-6003795627ef.png&quot; alt=&quot;PHPcon.pn
-    
-    </summary>
-    
-      <category term="メディア掲載・インタビュー" scheme="https://llminatoll.github.io/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>リクルートマーケティングパートナーズ様  まつもとゆきひろ氏講演イベントレポート</title>
-    <link href="https://llminatoll.github.io/403.html/"/>
-    <id>https://llminatoll.github.io/403.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://tech.recruit-mp.co.jp/event/post-12898/" target="_blank" rel="external">Rubyはどのように生まれ、世界へ羽ばたいていったのか？まつもとゆきひろさん講演会の全貌をレポート</a></p>
-<p>株式会社リクルートマーケティングパートナーズ様より、記事執筆依頼をいただき、取材・文章・イラスト・記事投稿後の拡散のお仕事をしました。</p>
-<p><a href="https://tech.recruit-mp.co.jp/event/post-12898/" target="_blank" rel="external">記事はこちらよりご覧いただけます</a></p>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/914663473119846401" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://tech.recruit-mp.co.jp/event/post-12898/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Rubyはどのように生まれ、世界へ羽ばたいていったのか？まつもとゆきひろさん講演会の全貌をレポー
-    
-    </summary>
-    
-      <category term="取材・ライティングのお仕事" scheme="https://llminatoll.github.io/categories/%E5%8F%96%E6%9D%90%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Google Dance Tokyo 2018 登壇</title>
-    <link href="https://llminatoll.github.io/581.html/"/>
-    <id>https://llminatoll.github.io/581.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018 年 4月 3日（火）<br>湊川あいがGoogle Dance Tokyo 2018でライトニングトークに登壇いたします。</p>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/980764793287065600" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/978097828445569025" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2 id="発表テーマ"><a href="#発表テーマ" class="headerlink" title="発表テーマ"></a>発表テーマ</h2><p>「サーチコンソール + SNS を駆使した、読まれるコンテンツの作り方」by 湊川あい</p>
-<p><a href="https://docs.google.com/presentation/d/1etJg5HFKHsHV9aJuRi11dRlEsknjQaGUWb7HqwzFz9Y/edit?usp=sharing" target="_blank" rel="external">スライドはこちらからご覧いただけます</a></p>
-<h2 id="当日の様子"><a href="#当日の様子" class="headerlink" title="当日の様子"></a>当日の様子</h2><div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/981763936688238592" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/chomado/status/981148194422706181" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/llminatoll/status/981094737712095232" target="_blank" rel="external"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h2 id="イベント-詳細URL"><a href="#イベント-詳細URL" class="headerlink" title="イベント 詳細URL"></a>イベント 詳細URL</h2><p><a href="https://webmaster-ja.googleblog.com/2018/02/google-dance-tokyo-2018.html" target="_blank" rel="external">https://webmaster-ja.googleblog.com/2018/02/google-dance-tokyo-2018.html</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018 年 4月 3日（火）&lt;br&gt;湊川あいがGoogle Dance Tokyo 2018でライトニングトークに登壇いたします。&lt;/p&gt;
-&lt;div class=&quot;twitter-wrapper&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;a 
-    
-    </summary>
-    
-      <category term="講師・登壇のお仕事" scheme="https://llminatoll.github.io/categories/%E8%AC%9B%E5%B8%AB%E3%83%BB%E7%99%BB%E5%A3%87%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>わかばちゃんと学ぶ Googleアナリティクス</title>
     <link href="https://llminatoll.github.io/417.html/"/>
     <id>https://llminatoll.github.io/417.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542321/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542321&linkCode=as2&tag=cam51p-22&linkId=3234fd1e0a54d47060bed14f54a14bef">わかばちゃんと学ぶ Googleアナリティクス</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=cam51p-22&l=am2&o=9&a=4863542321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"><br><a target="_blank" href="https://www.amazon.co.jp/gp/product/4863542321/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4863542321&linkCode=as2&tag=cam51p-22&linkId=3234fd1e0a54d47060bed14f54a14bef"><img alt="wakaba-book-ga.png (128.3 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2017/10/10/7092/ee6c0342-eb9f-4208-bb01-1cf3e18a6f0f.png"></a></p>
 <p></p>
@@ -565,8 +576,8 @@
     <title>マンガでわかるScrapbox</title>
     <link href="https://llminatoll.github.io/495.html/"/>
     <id>https://llminatoll.github.io/495.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://gyazo.com/f17f725ecc3dc7466e6956ac47520ff2.png" alt="マンガでわかるScrapbox"></p>
 <p><a href="https://scrapbox.io/wakaba-manga/" target="_blank" rel="external">マンガでわかるScrapbox</a></p>
@@ -592,8 +603,8 @@
     <title>i:ENIGINEER様 インタビュー</title>
     <link href="https://llminatoll.github.io/522.html/"/>
     <id>https://llminatoll.github.io/522.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p>テック系Webメディア  i:ENIGINEER様に、湊川あいインタビュー記事が掲載されました。</p>
 <p><a href="https://persol-tech-s.co.jp/i-engineer/product/llminatoll" target="_blank"><img width="1016" alt="persolテクノロジーブログ.png (841.4 kB)" src="https://img.esa.io/uploads/production/attachments/3412/2018/02/03/7092/50c75d5c-1b83-4044-8a54-86506fd1db7b.png"></a></p>
@@ -626,8 +637,8 @@
     <title>「ワンストップ！技術同人誌を書こう」表紙イラスト制作</title>
     <link href="https://llminatoll.github.io/523.html/"/>
     <id>https://llminatoll.github.io/523.html/</id>
-    <published>2018-05-24T06:36:57.506Z</published>
-    <updated>2018-05-24T06:36:57.506Z</updated>
+    <published>2018-07-25T01:27:14.642Z</published>
+    <updated>2018-07-25T01:27:14.642Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.esa.io/uploads/production/attachments/3412/2018/02/03/7092/5298a355-bab2-4619-86a6-60d63f6e7e16.jpg" alt="onestop.jpg (164.8 kB)"></p>
 <p>親方Project様よりご依頼いただき、C93「ワンストップ！技術同人誌を書こう」<br>表紙イラストを制作いたしました。<br>また、一部文章の執筆にも協力いたしました。</p>
